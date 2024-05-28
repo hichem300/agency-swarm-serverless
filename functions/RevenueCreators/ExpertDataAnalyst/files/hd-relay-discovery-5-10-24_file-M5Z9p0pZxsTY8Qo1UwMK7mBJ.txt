@@ -1,0 +1,603 @@
+HubSpot Call with Revenue Creators - May 10
+VIEW RECORDING - 43 mins (No highlights): https://fathom.video/share/yQLzHuUnMPRRsxak_5NzYZPWysNxZAAy
+
+---
+
+0:09 - Brooke Peters
+  I don't think that's mine. It might be. I'm not sure.
+
+0:13 - Daniel Kurt (revenuecreators.com)
+  on our calls it, like, automatically records, no, I don't know if that's mine. Oh, good, well, good.
+
+0:24 - Brooke Peters
+  Where are you based, Dan?
+
+0:26 - Daniel Kurt (revenuecreators.com)
+  I am in the suburbs of Chicago.
+
+0:28 - Brooke Peters
+  Okay, very cool. My family is actually from the suburbs of Chicago, like, Longbard.
+
+0:34 - Daniel Kurt (revenuecreators.com)
+  Oh, okay. Yeah. cool.
+
+0:40 - Brooke Peters
+  Nice.
+
+0:40 - Daniel Kurt (revenuecreators.com)
+  I'm in San Diego. Oh, okay.
+
+0:43 - John Bello
+  Yeah, and actually so are John and Chelsea. Hey, John. Hi, we're just waiting on Chelsea now.
+
+0:51 - Brooke Peters
+  Okay, perfect.
+
+0:53 - Daniel Kurt (revenuecreators.com)
+  Happy Friday. Yeah, happy Friday for sure.
+
+0:57 - John Bello
+  Yeah, but where are you located out of Daniel?
+
+1:00 - Daniel Kurt (revenuecreators.com)
+  I am in the suburbs of Chicago.
+
+1:02 - John Bello
+  Oh, okay, got it.
+
+1:04 - Daniel Kurt (revenuecreators.com)
+  Yeah.
+
+1:04 - John Bello
+  So your day's already begun, big at least a little further, but. Yeah, yep, I've been at it for six a.m.
+
+1:13 - Daniel Kurt (revenuecreators.com)
+  this morning, so all good.
+
+1:16 - John Bello
+  I hear that. Yeah, indeed.
+
+1:19 - Daniel Kurt (revenuecreators.com)
+  You're in the San Diego area as well, I think.
+
+1:23 - John Bello
+  Yeah, we're in San Diego, California specifically, so that's like the East County, San Diego area.
+
+1:28 - Daniel Kurt (revenuecreators.com)
+  Okay. Very good. One of my key team members is up in the San Francisco area.
+
+1:34 - John Bello
+  Okay. I used to live in San Francisco way back in the day. Changed a lot, I'd just say.
+
+1:41 - Daniel Kurt (revenuecreators.com)
+  I'm sure. Yeah, I'm sure.
+
+1:44 - John Bello
+  With more change happening. Yeah.
+
+1:48 - Daniel Kurt (revenuecreators.com)
+  So you've been at HD Relay for a long time, it looks like.
+
+1:52 - John Bello
+  Yeah, I've been with the company since 2009, since before, we started out as US Relay and our. corporate name is U.S.  relay corp, and so that was before they even had high definition cameras, was all standard definition cameras. Got it.  And then I think it was around like 2011, is when we started adopting more of the HD cameras and then it's kind of gone from there.
+
+2:19 - Daniel Kurt (revenuecreators.com)
+  Very cool. Very, very cool. Looks like Chelsea is in just not connected to audio quite yet.
+
+2:28 - John Bello
+  She's probably going to do the same as me where she uses their phone.
+
+2:31 - Daniel Kurt (revenuecreators.com)
+  That's how I'm talking to you right now. All good.
+
+2:33 - John Bello
+  All good at all. So have you been involved in this tub spot process and wanting to evaluate in HubSpot or like what you're in project?  We had an initial meeting with Broke and her team, I think it was just a couple of days ago.
+
+2:53 - Daniel Kurt (revenuecreators.com)
+  She just gave us an overview and that's kind of the extent of our connection right now.
+
+2:58 - John Bello
+  Okay.
+
+2:59 - Daniel Kurt (revenuecreators.com)
+  Okay. Understood. And your role as sales there at the organization?
+
+3:03 - John Bello
+  Business development sales, yes.
+
+3:05 - Daniel Kurt (revenuecreators.com)
+  Okay. So partnerships, sales, things of that nature then? Yeah.
+
+3:12 - John Bello
+  what I think what prompted us, you know, getting you involved is that right now our current website is not really doing much for us.  It's not really indexing on key terms. It's not doing what it needs to do. You know, I always ask like, you know, why aren't we increasing sales?  it's like, right now the only way that we're getting new prospects is it's me canvassing, just doing the old school way, just looking up everything and calling.  Right. word of mouth from current clients, which is, you know, it's not too often. Or someone sees our camera, sees our work in the field, then they call us, you know, just to ask about the hardware.  That they see out there and the presentations that we support.
+
+4:00 - Daniel Kurt (revenuecreators.com)
+  Okay, got it. Hey, Chelsea. are you?
+
+4:04 - ChelseaJohnson
+  Hi, I'm here. Sorry. don't know why I'm having trouble with my headset and it's just said it's powered off and I'm like, well, that's not good.
+
+4:13 - Daniel Kurt (revenuecreators.com)
+  Sorry for being late. No problem. haven't been catching up with John so no worries at all. Yeah, I'd love to just introduce myself.  name is Dan Kurt.
+
+4:22 - John Bello
+  I run a company called revenue creators.
+
+4:25 - Daniel Kurt (revenuecreators.com)
+  We've been in the HubSpot ecosystem since 2014. I've, you know, founder of a SaaS company and, you know, operated that SaaS company for a long time until I got totally burnt up during COVID and stepped down and really just reignited my consulting practice.
+
+4:42 - John Bello
+  you know, John, you were just explaining, you know, part of the drive to engage with HubSpot and why we're having this conversation is just around.
+
+4:50 - Daniel Kurt (revenuecreators.com)
+  Yeah, but not functioning properly and not really generating these traffic being tagged in very high as well. So, I've done quite a bit.
+
+5:00 - John Bello
+  It helps us on that.
+
+5:01 - Daniel Kurt (revenuecreators.com)
+  So I've got some ideas to share and just, you know, some findings I've had. I'm not an SEO expert.
+
+5:13 - ChelseaJohnson
+  I'm not like a web designer.
+
+5:14 - Daniel Kurt (revenuecreators.com)
+  I'm really a business strategist and our whole thing is with smaller businesses. We really only like to work with small businesses.  You guys fit the definition pretty solidly.
+
+5:26 - John Bello
+  We're all about revamping how you go to market, right?
+
+5:29 - Daniel Kurt (revenuecreators.com)
+  So like, yes, your website is outdated from a design standpoint. It needs to be tweaked. Content has to be better optimized.  But like, how are you actually showing yourself to the world? And, you know, is the messaging correct? Are you speaking to your key buyer personas, things of that nature?  And then it really goes into, you know, what that customer journey looks like, right? oftentimes I start talking to a small business, know, somebody in sales, somebody in marketing, maybe the founder and, you know, there's some surface level symptoms that
+
+6:00 - John Bello
+  they want to solve for. But if you start going a little deeper, right?
+
+6:04 - Daniel Kurt (revenuecreators.com)
+  If you think about iceberg, right? You just see the tip a bit above the water. But underneath, there's all these other poor issues that we need to dig into.  And we don't want to just fix things with bubblegum and duct tape. We want to look at it holistically and really figure out how to streamline everything, if that makes sense.
+
+6:21 - John Bello
+  Yeah, yeah, no, that sounds good.
+
+6:23 - Daniel Kurt (revenuecreators.com)
+  Awesome. So Chelsea, you know, know John's been with the organization a long time.
+
+6:28 - John Bello
+  think you're relatively new to the team. Is that right?
+
+6:30 - ChelseaJohnson
+  Yeah, this is my third week. Okay, well, welcome. I'm pretty new.
+
+6:35 - John Bello
+  Got it.
+
+6:38 - Daniel Kurt (revenuecreators.com)
+  And am I correct in saying that you have some experience with HubSpot in a past role?
+
+6:43 - ChelseaJohnson
+  that right? No, I am completely new. I mean, I used to build tours in the past, but I haven't looking for jobs.  I've known that, you know, everyone uses HubSpot from marketing, and I came from a company that, I don't know, we were a little old school, guess, and we weren't at that point to like, you know, actually get into that spot, but I had kind of researched it at that time as well.  And I thought, you know, this is really good for the company because it was another small company that came from, and I was the marketing manager for it.  And so anyways, I just thought, you know, it's user friendly, you know, from, you know, obviously my side of it.  And it seems like there's a lot of good tools as far as like generating, you know, the leads and, you know, creating content and everything.  And, you know, figuring out the analytics. So I just thought that, you know, it would be good for the company.  And then I thought, you know, for here, it would be good as well. Sure. That's why I reached out to you guys.
+
+7:52 - Daniel Kurt (revenuecreators.com)
+  Awesome. That makes sense. it sounds like some of your interest, right? You've been hired for a certain purpose. And I think you just, you know, covered all those things that you want to be working on.  on and HubSpot could help drive that forward. John, you're asking for more leads, right? you're sacked with one another and are key to the growth of the organization.
+
+8:11 - John Bello
+  Exactly.
+
+8:13 - Daniel Kurt (revenuecreators.com)
+  Understood. Awesome. you know, I've got a bunch of questions like, you know, going back to me wanting to look at the business holistically.  I absolutely want to dig into the website and share some of my findings and recommendations. But just to put context around that, I want to better understand business.  yeah, at the website, it looks like you sell both hardware and streaming services attached to the computer. Is that correct?
+
+8:39 - John Bello
+  Yeah, there's a harder component and then software service component.
+
+8:44 - Daniel Kurt (revenuecreators.com)
+  Okay. Understood. And then it looks like you also have a number of different applications that you sell in terms of golf and resort cams, water management, flood control, job site recordings, snow, tourism events.  Can you just Just walk me through like, do you have, you know, looking at like it from the 80-20 principal, are you really strong in some of those areas and not so strong in other areas?
+
+9:10 - John Bello
+  Can you just tell me how much they have revenue? Yeah, yeah. a lot of our revenue is coming from the golf and also from resorts, also from working with ski resorts in particular.  We work with the majority of NSA ski resorts, the Copper Mountain, the Stevens Pass. I mean, if you name a resort, we've done something there.  And we've actually expanded out. The hardware isn't just the camera hardware and service for that, but we also have free-standing applications like we have a flip-tech system.  It's basically a remote. Yeah, you can actually, the demo is actually right in Chelsea's office. Aw, Yeah. You can actually remote click it and clear it.  it from wherever you are in the world. it's something like that, it really appeals to mountain folks that don't want to always wake up at like 6am in morning and go up mountain.  That's a clear, you know, something. you know, we're providing specific type of hardware according to the environment it's going to go into.  That's kind of our specialty of our sister. Our sister company is called DotWorks. And they provide the basic hardware that we use and incorporate into our systems.  And that's, once we get the camera, you know, the camera that's integrated in the housing out to the customer, then the work of getting that actually working on their website is kind of the next part.  And we could do everything from a live view, labs, recording. We could do panoramic shots with a controllable camera.  there's a lot of tools and a lot of things that appeal to folks that need to market their own.  business using a webcam if that makes sense.
+
+11:02 - Daniel Kurt (revenuecreators.com)
+  Yeah okay understood so just to recap what you just share with me really a lot of revenue coming from golf and resorts and within the resort's particular ski and the application is more you know around driving your clients have helping them drive demand for what they offer essentially comparing the other categories which might be more like insurance related safety and security and things of that nature.
+
+11:35 - John Bello
+  That is an aspect of it it does have it always has a security aspect to it because at heart we're using security cameras to do the work that we're doing but but it's really for large audience viewing it's for promotion it's for interact we also have and we specialize in getting an interactive presentation so if you go on any given website if it has a controllable camera  on there, you can actually control the camera remotely under certain rules. So if the admin and whoever owns the camera allows for you to free control the camera and zoom and everything, then you could do that.  If they don't give you that full level of control, they will sometimes set up preset-only views where they designate this particular spot with this particular zoom level, and then you can choose between like two or three that they've chosen for you to see and manipulate.
+
+12:27 - Daniel Kurt (revenuecreators.com)
+  What happens if multiple people are trying to do that at one time, do they just put into a few?
+
+12:32 - John Bello
+  Yeah, exactly. It's first-in-line type rule set up. We also have a specialized player that's a voting player, so if there's 50 people on the website looking at one camera and there's three presets, if one of the three presets is the most popular one, everyone can click on it and then it tells you in like a minute it's going to go to the most popular preset and it goes to that view.  Cool. So it's kind of like a crowdsourced view finding.
+
+12:58 - Daniel Kurt (revenuecreators.com)
+  Really neat. Okay. Right. And then water management, flood control, is that something you're doing significant business?
+
+13:10 - John Bello
+  We'd like to. So that entails any kind of government or public entity. We work with a lot of municipalities in a lot of counties, lot of state and federal government for water monitoring.
+
+13:24 - Daniel Kurt (revenuecreators.com)
+  So I think areas that have high flooding or they need to monitor like river flows, things like that that ice over like in the Chicago land area.
+
+13:34 - John Bello
+  So the government will contract with us to provide the hardware and to provide the monitoring service and be able to give the the text or the hydrologist that they go on site just a remote view so that they don't have to drive out again to like the location miles out and they can save a trip basically.
+
+13:54 - Daniel Kurt (revenuecreators.com)
+  Similar to like what what drone companies are offering but you're basically stationary in positions at the right point. So, uh, there's, you know, you don't fly the drone.  That makes sense. Cool.
+
+14:05 - John Bello
+  Um, and you want to do more of that. You're saying that that, yeah, that there's a lot of opportunity there.  Um, and again, most of, most, if not all the business has come for word of mouth. Like they, you know, we work with the California Department of Water.  They found out because they, they, they saw our cameras in San Diego and they reached out to the, you know, our contact there.  And then the, you know, it's just, again, the word of mouth is really strong. And we, we tend to get pretty loyal customers that, that, that will promote us.  I'd like to get, you know, keep that going. Of course, but I'd like to get some other way where it's just people searching for us to be able to find us because right now they're finding all of competitors and it just, yeah, it's unfortunate.
+
+14:46 - Daniel Kurt (revenuecreators.com)
+  Understood. That makes sense. Um, we're definitely going to dig into that here in a moment. Um, uh, quick. So like hardware versus services, which one's more important to you from a revenue and a profit standpoint.
+
+15:00 - John Bello
+  services.
+
+15:01 - Daniel Kurt (revenuecreators.com)
+  Okay, and those you said they're you have loyalty.
+
+15:03 - John Bello
+  So that means the the subscriptions are sticky Yeah, yeah, we've had customers that they've worked with since I signed them on back in 2009, you know, wow That's awesome Yeah, that's that's kind of heard of in this industry too because there's a lot of there's a lot of turnover a lot of people move from Rules, it kind of helps that I've been here and have a little bit of longevity because you know, they I get recommended from inside of the Different organizations.  go just call John.
+
+15:34 - Daniel Kurt (revenuecreators.com)
+  They'll help you out and then it goes from there You know, is the new, you know, someone retires someone new comes on they go I was told that I need to speak with you and then you know get them set up Understood understood.  Okay That's awesome and that actually speaks really well to what the potential is right because you're obviously delighting your customers It's long.  lasting relationship. So if you start putting more on the top of the funnel into the top of the funnel  and all that stays constant. That's that's the idea. Yeah.
+
+16:05 - ChelseaJohnson
+  Okay, that makes sense.
+
+16:07 - Daniel Kurt (revenuecreators.com)
+  So let's let me just ask a little bit about the sales process and like how you're managing that currently and then we'll dig into something on traffic and e-gen and all that so educate me on how you sell.
+
+16:22 - John Bello
+  Yeah, basically I'll I'm doing the prospecting if it's you know a new complete new customer. I'm like right now I'm focusing on golf resorts and I'm going state-by-state.  I'll I'll find a list online that has somewhat up-to-date information on them, do some more research, go on our website, social media, and then once I figure out who the main contacts are, I'll email them, reach out with a phone call.  If there's interest, I'll set up a presentation with them, presentation is going over the the camera hardware service, explain them kind of the idea if they've never thought about doing something like this.  Yeah. And then I quote, give them a couple of weeks to look at it, check in with them. Most folks will either say, yeah, let's do it.
+
+17:10 - Daniel Kurt (revenuecreators.com)
+  Or they'll say, we're not ready yet. And then I'll keep them in the queue for contacting in the month or so.
+
+17:16 - John Bello
+  Yeah. And then it just goes from there.
+
+17:18 - Daniel Kurt (revenuecreators.com)
+  That's interesting. just had a memory from high school where we would all go get pegs and go out on the golf course.  And I'm thankful there weren't security cameras like what you prefer. What is your average order value, would you say, for that type of prospecting and sale process?
+
+17:41 - John Bello
+  Yeah. A single system could be like $4,000 hardware. then for recurring, it ranges because there's different services. But it could average around $200 a month, something like that.
+
+17:55 - Daniel Kurt (revenuecreators.com)
+  Cool. Awesome.
+
+17:57 - John Bello
+  All right.
+
+17:58 - Daniel Kurt (revenuecreators.com)
+  Anything else I should know in terms of?
+
+18:00 - ChelseaJohnson
+  You know, sales were beyond.
+
+18:04 - John Bello
+  Yeah, go ahead. Yeah, I'm so right. I use Salesforce. So I'm familiar with that. Right right now or focus is again, not so much to improve or altered the sales process because I feel like that's under control right now that the real deficit is just initial getting getting contacts getting or information out there and fixing the website.
+
+18:26 - Daniel Kurt (revenuecreators.com)
+  So it's actually doing something right right now it's kind of dead that's when it's not really doing anything understood.
+  ACTION ITEM: Send summary of key discussion points and proposed plan to Chelsea and John - WATCH: https://fathom.video/share/yQLzHuUnMPRRsxak_5NzYZPWysNxZAAy?timestamp=1111.259899  Okay. Well, very good. So I'm not very good, but understood.
+
+18:36 - John Bello
+  So let's let's take into a piece.
+
+18:39 - Daniel Kurt (revenuecreators.com)
+  So I have different areas of of analysis here. It looks like traffic and these might are probably not exactly correct, but I used a tool that helped me analyze web traffic.  So they're probably directionally correct, but not exact, but a couple hundred visitors a month. Is that roughly what's going on in terms of traffic?
+
+19:04 - John Bello
+  I don't know. don't have visibility on the web traffic. All I know from my perspective, in a given month, I'll probably get like three inquiries for the whole month.  And that's real inquiries. We'll get a ton of spam and people selling all sorts of nonsense. But yeah, I would say like three solid leads come a month per month on that.
+
+19:30 - Daniel Kurt (revenuecreators.com)
+  Understood, and there's no paying traffic right now, no CPC.
+
+19:35 - John Bello
+  No.
+
+19:35 - Daniel Kurt (revenuecreators.com)
+  Okay. I did notice your competitors spending money on traffic.
+
+19:42 - John Bello
+  Yeah. And I pointed that out to the owner, but he's been hesitant to do anything. So that, you know, this is kind of a first step to kind of break them out of that.
+
+19:51 - Daniel Kurt (revenuecreators.com)
+  Hopefully and just, you know, take it seriously. Oh, yep. That makes sense. You know, from a keyword standpoint, what's actually getting.  ranked and driving traffic, like 62% of your keywords are more informational, know, people just seeking knowledge, but not intent or commercial based, meaning, you know, a lot of the traffic coming is like looking for webcam views of different ski mountains, different beaches.
+
+20:19 - John Bello
+  Exactly.
+
+20:21 - Daniel Kurt (revenuecreators.com)
+  People that are going to buy what you do for the most part. Yeah, that's accurate. Yeah, so like 14% are transactional, 12% of keywords are commercial, so definitely not ranking for the right things.  You know, there's also from a landing page standpoint, like if you look at the specific, you know, industry solutions that you have, like the landing pages, many of them have like the request to quote all the way at the bottom of the page versus above the hold.  The layout standpoint, probably not optimized for a quote request or lead capture.
+
+21:02 - John Bello
+  Gotcha.
+
+21:04 - Daniel Kurt (revenuecreators.com)
+  And then, you know, looking at your top competitors in various industry solutions, there's really low overlap between what they're ranking for and what you're ranking for.
+
+21:14 - John Bello
+  So, yeah, sure like what you're experiencing is evidenced in the data without a doubt. Yeah, what's interesting is that our, so our owner wants us to be a lot more competitive in construction job site type cameras, which is something that we do, but it's not something that's our strong suit to say, only because software-wise, we've identified that our competitors have two advantages.  One, they have a little bit better software integration. a lot of folks on job sites, they want to have a more comprehensive job site layout where it's not just cameras, it's like, you know, can you monitor how many employees are on location?  And then can you, you know, like give updates and things like that? So, it's more like managerial type stuff.  Yeah. And the other negative, which is that we actually created, I didn't do this personally, but so our sister company sells directly to our competitor, the same type of housing.  For whatever reason, they decided that they can make money selling to our competitors the same type of hardware. So I'm competing against our sister company selling to our main competitor, and what's interesting is that they have somewhat or a lot better marketing of the same product that I sell, but it's kind of a weird thing to wrap your head around.  I don't know what the reasoning is. do know. It's like, Dottworks, the manufacturer part, the orchestra company, makes a lot of money selling the housings to whoever, they don't really care.  And the unfortunate thing is that we're kind of like the red-headed stepchild that's been ignored, and they're selling to our competitor.
+
+22:57 - Daniel Kurt (revenuecreators.com)
+  And it definitely has hurt the bottom line.
+
+22:59 - John Bello
+  Interesting. Same ownership. Yeah. Yeah. you go to, for example, if you go to truelook.com, truelook.com is a 100% competitor to us.
+  SCREEN SHARING: Daniel started screen sharing - WATCH: https://fathom.video/share/yQLzHuUnMPRRsxak_5NzYZPWysNxZAAy?timestamp=1389.151591  They have the same, exactly the same type of hardware that I would sell in similar types of packages and everything.  The only difference is they, again, for whatever reason, they sell a lot. Like, our owner will regularly come up to me and say, they bought like 6,000 cameras.  What's going on with you? I'm like, they're buying PBC for construction live cameras.
+
+23:38 - Daniel Kurt (revenuecreators.com)
+  So they're being found. We're not being found. And it hasn't clicked until now that, yeah, there's a reason why we're not selling the same level that they are.  Okay. so Chelsea, were you brought on largely to address these issues?
+
+23:52 - ChelseaJohnson
+  Yeah. Yeah. Yeah. the owner is saying the owner is getting this point, right? He's starting to understand what he's getting it.  Yeah. Yeah, he's understanding that we need to do more marketing and that we need to work on our SEO and that we need to work on our social side and I was in graphics as well, you know, but because I mean we have a brochure from 2017 like on the website and it hasn't been updated I guess since then and we don't really have anything to really present to the customers So I'm sure that's difficult for John So I think that's something that you see addressed and Obviously the website, you know, it's kind of gattered all over the place and There is like you're saying there is no root to it.  So it makes it difficult as far as with our SEO You know to go forward with that So so basically yeah, has brought me in to basically I guess, you know, try and fix things as much as possible and  So then I thought I was like, oh, I think that, you know, maybe this would be, know, good option for us to just get us off and going and basically, you know, bringing more traffic into our company and to the website because we're not, you know, being ranked very highly and I had done like an analysis, like just on my own, just to see like where we were ranked and like you were saying the keywords are just not, you know, not really, you know, helping us.
+
+25:30 - Daniel Kurt (revenuecreators.com)
+  So we need some help there as well. Yeah, absolutely. What capabilities do you have in-house versus what capabilities are you going to need to hire for?
+
+25:46 - ChelseaJohnson
+  Well, that's a good question. Yeah. So as of now, we, you know, we do have three companies within one.org is our sister company and they have a marketing coordinator.  And, I mean, he does graphics and he's offered to help out little bit here and there. But as of our company, HDRelay, there's only five of us, including myself.  So there's not that many resources, I guess. So I don't know, you know, who exactly will be, you know, coming in or, you know, if there's going to be someone, you know, coming in in the future, you know, so that's still undecided.
+
+26:28 - Daniel Kurt (revenuecreators.com)
+  Okay. Understood. What is your impression of like the priority of work that has to get done at this stage?  know you're three weeks into the job and, you know, John.
+
+26:39 - ChelseaJohnson
+  Yeah, I mean, yeah, I mean, obviously I think it's just increasing the traffic to our website, increasing our sales, increasing qualified leads, working, you know, somewhat obviously on the website because it seems like, you know, that's going to affect like our overall.
+
+27:00 - Daniel Kurt (revenuecreators.com)
+  sales and our overall business.
+
+27:02 - ChelseaJohnson
+  Just making ourselves be more brand, know, awareness, you know, the company. And I guess just, know, trying to create interest in the company.  My boss has talked about doing mailers. He's pushing that really hard right now for me. And so I guess, you know, need some, obviously we have our, you know, existing customers, but we would like to get, you know, some more customers that are new and that we can bring into the company.  And so I guess that's kind of where it stands. He just told me, I mean, told me earlier, but last week, but then he kind of pushed it yesterday that he's like, I want you to do a mailer now.  And so, that's to be clear. So I guess, you know, that's kind of just where I'm at, is that, you know, I think everything is just, um, I don't know how to say it, like heightened, you know, heightened levels.  as far as like the urgency to get this going to put us in a better position, as far as like with our competitors.  we just signed up for actually a trade show for World of Concrete. So we're trying to get more into the jobsite construction area.  So that just happened yesterday. So it seems like he and he also talked about security, like John said, that's something that we've been looking at as well.  So I guess trying to figure out exactly where is our niche within the market and how can we be the most competitive.
+
+28:38 - Daniel Kurt (revenuecreators.com)
+  And what is special about us and what is it that the customers are like, yeah, we want to go to H.D.  Relay to get this product or the service and how can we stand out.
+
+28:49 - ChelseaJohnson
+  then the most recent thing was about 5G. And he wants me to put that in the mailer. It's still in the working process.  So. We haven't actually, you know, we don't actually have it, I guess, to sell, which I think John can, you know, elaborate on that more.
+
+29:08 - John Bello
+  Yeah. So just to kind of give you a more of a global perspective, the reason, the reason why we're going to World of Concrete, it's a construction job site, focus, trade show, and the reason why we're even talking about 5G and all that, that true look, he's comparing us to true look, like a thousand percent.  So, when you look at their website, they offer, they specialize in job site cameras, they specialize in doing that type of stuff.  He knows, the owner knows that we do have a lot of business in other industries, but for whatever reason, he wants to be more competitive.  think, you know, he just wants to be more competitive in this line, especially seeing that they have the same hardware.  I guess, in his mind, he's like, oh, we should be doing this too, you know. The only problem is we don't have all the hardware features that they outline here.  a little bit different. They do a lot of solar type applications and whatnot. I don't have that to sell.  At one point before COVID, they're like, oh, sell solar. And I'm like, great, what do I sell? Like, what are the parameters of pricing?  Never provided it. I tried selling a couple of things and I never got support on it in terms of what I'd actually need to sell and what can we provide.  have this philosophy and this probably Chelsea is starting to see this is that our owner gets an idea and he wants us to sell something without it being fully realized.
+
+30:35 - Daniel Kurt (revenuecreators.com)
+  And actually, he's very clearly a visionary.
+
+30:38 - John Bello
+  gets lots of ideas.
+
+30:39 - Daniel Kurt (revenuecreators.com)
+  is.
+
+30:40 - John Bello
+  But I'm more realist because when it comes down to me, what can I actually quote that I can actually obtain when the order comes through?  I've had issues where I'll put together a quote based on what our owner wants it sells because I can sell it.  I can sell the idea. I'm good at that. the fulfillment none of it is where it becomes a nightmare because then people need to actually put it together without it being done ahead of time.  And then we end up losing good wealth, company good wealth. customers, yeah, the customer starts being that we're floundering and we're not providing what we promise.
+
+31:21 - Daniel Kurt (revenuecreators.com)
+  then it's not a good luck, you know? Right, right. So all of this is really good information. Thank you for sharing it.  And this is why I look at the business holistically, right? Because if we weren't having this type of conversation, we would be talking about how do we optimize your website to capture more leads when, you know, the business doesn't need more ideas.  It needs more focus action. So, you know, yeah, if you're actually not able to have a proper solution in the security space, because you're not integrated with, you know, the other software that they're using and even with the future is like, you know, you know, jot counting how many employees, well, is that just another fool's errand because  because ultimately, you're not competitive with what this industry actually needs, right?
+
+32:06 - John Bello
+  Whereas you're really sure all I would say we're absolutely not competitive because it's not just true luck. There's other ones that are out there that have even more feature sets and they do battle with each other.
+
+32:17 - Daniel Kurt (revenuecreators.com)
+  Right, right, exactly. like, you have a competitive solution with golf and resorts, what's your market share? And how can you reach more of those, not just from a sales standpoint, you're doing with the upbound, but from a marketing standpoint, what trade shows are there that you can go to.  like, you know, this is the type of stuff I love to get into, helping you figure out where to focus and then, you know, operationalize all of that with HubSpot at that foundation of the tech stack.  And, you know, clearly what the owner has done is worked, right? you know, multiple companies doing really, really well.  And it sounds like we're going to need to be a team here to really figure out what is the scope of this, getting on HubSpot.  spot and how do we sell it to the to the owner, right?
+
+33:04 - John Bello
+  get him on board.
+
+33:05 - ChelseaJohnson
+  okay. Yeah, I mean, I think he sees that his he's paying for sales force.
+
+33:12 - Daniel Kurt (revenuecreators.com)
+  And I think that we would have to have a compelling argument for heads up spot in order for him to move forward.
+
+33:20 - ChelseaJohnson
+  But he has has me to get all the information and kind of dive into it and see like whether this is viable for our company.  So that's why I'm doing the head work and, you know, talking to you and trying to get as much information about like how we can use your services and, you know, maybe it is better than sales force.  But yeah, so that's kind of like where this, you know, conversation is, you know, going and we haven't brought in the boss yet because we're just trying to get the groundwork, you know, first, then try to figure out whether this is a good fit.
+
+34:00 - Daniel Kurt (revenuecreators.com)
+  And the other thing to consider is, you know, don't want to bite up more than we can chew right now.  Also, the perspective of the owner, the leader, he's already invested in you, Chelsea. Right.
+
+34:14 - John Bello
+  spot would be another expense if you start looking at a new website right off the bat. Like it might add up to a lot versus looking at this as an approach where we can take a step by step process and get a return on safe time.
+
+34:29 - ChelseaJohnson
+  Yeah, we, yeah. Right. Put it up over time.
+
+34:33 - Daniel Kurt (revenuecreators.com)
+  Exactly.
+
+34:33 - ChelseaJohnson
+  Okay. Yeah. Yeah, he has to see a return on investment pretty soon, you know, or something.
+  ACTION ITEM: Learn more about Google AdWords to support marketing efforts - WATCH: https://fathom.video/share/yQLzHuUnMPRRsxak_5NzYZPWysNxZAAy?timestamp=2078.239899
+
+34:43 - Daniel Kurt (revenuecreators.com)
+  Is there any expertise to learn on Google AdWords in the organization?
+
+34:48 - ChelseaJohnson
+  Not that I know of.
+
+34:50 - John Bello
+  Okay. There's no one in here that can do PPC or anything like that. I used to work at FCO company prior to this.  So I'm familiar with the process. I used to actually sell the, you know, the services. I know, I know the valuation of it, how to go about, you know, looking for key terms and whatnot.
+
+35:07 - ChelseaJohnson
+  But that's not my job here. You know, I don't, I don't know. Yeah, I'm working on a certification for it right now, but I'm not an expertise in it by means, you know, so I'm just working on it on my own.
+
+35:21 - Daniel Kurt (revenuecreators.com)
+  Okay, I'm interested.
+
+35:24 - John Bello
+  I mean, I want to put more thought into it and just really internalize everything you shared with me today.
+
+35:29 - Daniel Kurt (revenuecreators.com)
+  But my gut is telling me like, get HubSpot in place, get the data flowing into there in terms of like HubSpot's basically got analytics just like Google analytics, but you actually know who those people are.  You know, look at the landing pages that you have for the industries you are most competitive in advantages. and you know, I think it sounds like you do have some expertise.  I think your website WordPress, is that right?
+
+35:58 - ChelseaJohnson
+  Yeah, I think so. believe so.
+
+36:01 - Daniel Kurt (revenuecreators.com)
+  And so I think, you know, it's not hard to, to set up, like, you know, to change the, the look in the field of particular, right, and just focus on getting those things optimized.  then I think, you know, SEO is a long flight, it's a long term game. And it takes a while to keep stuff like we're, we're counting on SEO and a new website to a dividends to justify further investments to help you guys do what you need to do to grow the business.  It's going to be too long. But if we can get some good pages optimized in the areas that you are most competitive and then throw some page right that right all of a sudden, John, you start getting some more qualified leads, you close one of them.  Yeah, right now we've got some momentum. Yeah.
+
+36:46 - ChelseaJohnson
+  Yeah, no, I think that's the most important thing.
+
+36:49 - Daniel Kurt (revenuecreators.com)
+  Okay.
+
+36:50 - ChelseaJohnson
+  All right.
+
+36:50 - Daniel Kurt (revenuecreators.com)
+  Sorry.
+
+36:51 - John Bello
+  Yeah, no, no, go ahead.
+
+36:54 - Daniel Kurt (revenuecreators.com)
+  Understood, John, you're heading out of town overseas soon.
+
+36:59 - John Bello
+  Yeah, I'm going to. be gone for pretty much the whole month, Chelsea's going to be in kind of taking lead on all this, working with the owner.
+
+37:07 - ChelseaJohnson
+  So hopefully when I get back, there's going to be a lot of leads. I mean, I'll read right realistically.
+
+37:13 - John Bello
+  know it's a process, but when I get back, it would be nice to have some kind of plan in action.  way, I can continue doing the things that I'm doing that are maintaining and growing the business slowly.
+
+37:25 - Daniel Kurt (revenuecreators.com)
+  But if there's these additional things kind of starting to take shape, I think that will really help in the next coming like six months, you know?  OK, OK. it sounds like you really want this to happen, because you need more qualified leads that are independent of you doing the hustle and bustle of the prospecting and outbound sales.
+
+37:45 - John Bello
+  Exactly.
+
+37:46 - Daniel Kurt (revenuecreators.com)
+  Yeah. Are you on a personal trip, not a work trip for the rest of the I'm going on vacation, my friend.
+
+37:54 - ChelseaJohnson
+  I'm going to go around and we're not going to bother John.
+
+37:57 - John Bello
+  I'm going to for, no, I'm not going to be.
+
+38:00 - Daniel Kurt (revenuecreators.com)
+  Okay, said before the pandemic, like we had other trips planned and then things got canceled sound like, uh, okay way overdue understood, uh, will not bother you here.  It's just my challenges. It sounds like, you know, you've been at the organization a long time. So the owner is going to put weight on on your recommendation.  Um, you know, uh, I think let's just do a quick brainstorm on what this, this project will look like and then, you know, the next call will be like me actually going in and doing personalized demo Chelsea to show you how this will all work and then those qualified leads are flowing into where, um, John, you're, you're doing your sales.  Uh, I think it's case to be made whenever that renewal with sales forces up to potentially move you over to sales up, but, um, do you know when your contracts?
+
+39:00 - ChelseaJohnson
+  Exactly. I know it's up in June.
+
+39:03 - Daniel Kurt (revenuecreators.com)
+  It's June.
+
+39:04 - ChelseaJohnson
+  Okay.
+
+39:05 - Daniel Kurt (revenuecreators.com)
+  So, um, Don, are you open to doing sales through HubSpot and not Salesforce?
+
+39:12 - John Bello
+  Yeah, I don't have a problem with that. mean, the, the problem, we have a shared account with our sister for company.  So that, I don't know if we got rid of it completely, that would negatively impact them.
+
+39:24 - ChelseaJohnson
+  So I don't know, we would probably keep Salesforce going and then I don't know if there's way of testing HubSpot, you know.
+
+39:31 - Daniel Kurt (revenuecreators.com)
+  There, there is. Um, we can, we can focus on the marketing piece and then when we're ready to do that, um, all we have to do is add one license of sales hub.  Pro, uh, you don't have to like, you know, spend a minimum of $500 a month.
+
+39:44 - John Bello
+  You can just add a license for you.
+
+39:46 - Daniel Kurt (revenuecreators.com)
+  Um, when the time is right. So we'll, we'll put a pin in that one and not try to change too much right off the bat.  Um, and it sounds like, you know, we're not talking to the sister company. So, you know, they're not going to cancel Salesforce.  You're just one user on the Salesforce side.
+
+40:00 - John Bello
+  So, Not a big deal, right? Yeah, exactly.
+
+40:02 - Daniel Kurt (revenuecreators.com)
+  All right. that's our strategy there. And then project would be focused on getting marketing hub in place, and really focusing on the few areas, the industries, the solutions that you're excelling at, getting proper landing pages, putting place for conversion, and then starting to experiment with pages to get Johnson qualified leads.  And that will prove that if we work on our website and we focus on areas really strong and we can meaningfully impact growth, which should justify additional phases.
+
+40:44 - ChelseaJohnson
+  Okay.
+
+40:45 - John Bello
+  Do we think this kind of give us a summary of those last things just like in an email?
+
+40:56 - Daniel Kurt (revenuecreators.com)
+  Yeah, 100%. And then Chelsea, I'd love to just get something on it. Yeah, with you sometime next week and I can go on through with these details more, would that work?
+
+41:06 - ChelseaJohnson
+  Okay. Yeah, that works for me.
+
+41:08 - Daniel Kurt (revenuecreators.com)
+  Cool. And John, do you think you could maybe put in a good word in your your vote of confidence in this plan before you head out?
+  ACTION ITEM: Put in a good word with the owner in support of the proposed HubSpot plan - WATCH: https://fathom.video/share/yQLzHuUnMPRRsxak_5NzYZPWysNxZAAy?timestamp=2470.8399
+
+41:15 - John Bello
+  Yeah, absolutely. Okay. Yeah, I'll probably be with him today. So I'll kind of lay that the groundwork for you.
+
+41:22 - Daniel Kurt (revenuecreators.com)
+  Beautiful. All right, very good. And I'll get a summary over to everybody here a few moments and my thank you.  We'll be responsible for that. So we'll be good.
+
+41:32 - ChelseaJohnson
+  Okay. All right.
+
+41:34 - Daniel Kurt (revenuecreators.com)
+  All right. Let's let's take a look at the calendar Chelsea and get something for next week. Sure. All right.  Tuesday afternoon. I'm central time. So we could do either we do four o'clock central to a o'clock Pacific.
+
+42:03 - ChelseaJohnson
+  And to yeah, that's good for me. Brooke, I actually think.
+  ACTION ITEM: Schedule follow up call with Chelsea for next Tuesday at 4pm CT/2pm PT to review HubSpot demo - WATCH: https://fathom.video/share/yQLzHuUnMPRRsxak_5NzYZPWysNxZAAy?timestamp=2526.179899
+
+42:07 - Daniel Kurt (revenuecreators.com)
+  Is that work for you?
+
+42:08 - Brooke Peters
+  Yeah, that actually does work.
+
+42:09 - John Bello
+  That's perfect.
+
+42:10 - Daniel Kurt (revenuecreators.com)
+  Beautiful.
+
+42:11 - John Bello
+  All right.
+
+42:11 - Daniel Kurt (revenuecreators.com)
+  I'll get that invite sent out.
+
+42:13 - ChelseaJohnson
+  I'll get the summary over to you guys and John.
+
+42:15 - Daniel Kurt (revenuecreators.com)
+  You can use that for prepping to talk with Will. OK, going where are you going in Europe?
+
+42:22 - John Bello
+  I'm going to Ireland and the Italy.
+
+42:25 - Daniel Kurt (revenuecreators.com)
+  Ah, amazing.
+
+42:26 - John Bello
+  Enjoy kind of getting two different slides of Europe in Europe. So I'm gone with kids.
+
+42:32 - Daniel Kurt (revenuecreators.com)
+  I can see it for the first time.
+
+42:35 - Brooke Peters
+  That's awesome.
+
+42:36 - John Bello
+  That's awesome.
+
+42:37 - Daniel Kurt (revenuecreators.com)
+  Well, safe travels, have a lot of fun.
+
+42:39 - John Bello
+  Hopefully we have a new show. Thank you.
+
+42:41 - Daniel Kurt (revenuecreators.com)
+  We'll playing with when you get back here.
+
+42:43 - John Bello
+  I appreciate that.
+
+42:44 - Daniel Kurt (revenuecreators.com)
+  Thank you so much. All right. Thank you. Bye bye. See you next week. I'll see you next

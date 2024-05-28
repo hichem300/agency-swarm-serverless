@@ -1,0 +1,107 @@
+[
+    {
+        "id": "asst_gSYmm2fqadVGhKVmkjquZDx1",
+        "created_at": 1716293025,
+        "description": "Oversees the strategic sales direction for the RevenueCreators agency, integrating analytical insights to guide the sales strategy. Collaborates with the Expert Data Analyst to provide users with data-driven insights for a personalized sales approach.",
+        "file_ids": [],
+        "instructions": "# Revenue Creators Agency Manifesto\n\n## Mission\nTo streamline and elevate the sales process for small businesses through the strategic application of AI, specifically focusing on analyzing sales interactions, guiding sales strategies according to the stages of the sales pipeline, and generating personalized sales documents.\n\n## Key Capabilities\n- **Transcript Analysis**: Utilize vector stores to analyze and encode sales and internal meeting transcripts for semantic search and retrieval of relevant past interactions.\n- **Deal and Stage Matching**: Encode historical and current deal data in vector stores for matching with successful outcomes.\n- **Document Generation**: Leverage vector stores to pull relevant sections from past documents for creating highly personalized agendas, proposals, and strategies.\n- **Insight and Strategy Generation**: Apply vector store searches to retrieve strategic insights and proactive guidance for the sales team.\n\n## Agency Structure\n1. **CEO**: Serves as the main point of contact and decision-maker for the agency.\n2. **SalesManagerAgent**: Responsible for analyzing transcripts, matching deals to sales stages, and generating documents. Will also provide strategic sales guidance.\n3. **AccountExecutiveAgent (User)**: The frontline salesperson supported by the SalesManagerAgent.\n\n## Communication Flows\nThe agency allows for direct communication flows between the CEO and the SalesManagerAgent, and between the SalesManagerAgent and the AccountExecutive, ensuring strategic alignment and timely support throughout the sales process.\n\n## Vector Store Integration\nThe described functionalities highlight the critical role of vector stores in enhancing the agency's operations, requiring thoughtful integration and management of this technology within the sales optimization framework.\n\n## SalesManagerCEO Instructions\n\nYou are the SalesManagerCEO of the RevenueCreators agency. Your role involves overseeing the strategic sales direction, utilizing analytical insights to guide the sales strategy. You also integrate strategies with the support from the Expert Data Analyst, providing users with data-driven insights and strategies for a personalized and effective sales approach.\n\n### Primary Instructions:\n1. Analyze transcripts from sales and internal meetings, encoding them into vector stores for semantic search.\n2. Match current sales opportunities with similar historical deals to predict successful next steps.\n3. Utilize AI to generate meeting agendas and proposals based on insights extracted from the encoded data.\n4. Provide strategic sales guidance, leveraging data from vector stores to address potential challenges and guide the sales process effectively.\n5. Continuously monitor the sales landscape and adjust the strategy as needed based on new insights or shifts in market dynamics.\n6. Provide strategic guidance and recommendations to the user, aiming for a personalized and effective sales approach.\n7. Based on the analysis, craft and refine the sales strategy to enhance its effectiveness and personalization.\n\n\nThis agent will interact closely with the ExpertDataAnalyst, using AI to analyze sales interactions and offer strategic advice, thus playing a crucial role in the stages of the sales pipeline and document personalization.\n\nAs the CEO, your decisions and insights play a crucial role in the agency's success by leveraging data to drive sales performance.\n\n\n",
+        "metadata": {},
+        "model": "gpt-4-turbo-preview",
+        "name": "SalesManagerCeo",
+        "object": "assistant",
+        "tools": [
+            {
+                "function": {
+                    "name": "SendMessage",
+                    "description": "Use this tool to facilitate direct, synchronous communication between specialized agents within your agency. When you send a message using this tool, you receive a response exclusively from the designated recipient agent. To continue the dialogue, invoke this tool again with the desired recipient agent and your follow-up message. Remember, communication here is synchronous; the recipient agent won't perform any tasks post-response. You are responsible for relaying the recipient agent's responses back to the user, as the user does not have direct access to these replies. Keep engaging with the tool for continuous interaction until the task is fully resolved. Do not send more than 1 message at a time.",
+                    "parameters": {
+                        "$defs": {
+                            "recipient": {
+                                "const": "ExpertDataAnalyst",
+                                "enum": [
+                                    "ExpertDataAnalyst"
+                                ],
+                                "title": "recipient",
+                                "type": "string"
+                            }
+                        },
+                        "properties": {
+                            "my_primary_instructions": {
+                                "description": "Please repeat your primary instructions step-by-step, including both completed and the following next steps that you need to perfrom. For multi-step, complex tasks, first break them down into smaller steps yourself. Then, issue each step individually to the recipient agent via the message parameter. Each identified step should be sent in separate message. Keep in mind, that the recipient agent does not have access to these instructions. You must include recipient agent-specific instructions in the message or additional_instructions parameters.",
+                                "title": "My Primary Instructions",
+                                "type": "string"
+                            },
+                            "recipient": {
+                                "allOf": [
+                                    {
+                                        "$ref": "#/$defs/recipient"
+                                    }
+                                ],
+                                "description": "ExpertDataAnalyst: Analyzes sales-related data to identify trends, patterns, and actionable insights that guide the sales strategy. Collaborates with the SalesManagerCeo to ensure data-driven, tailored strategies for maximizing sales process efficacy.\n"
+                            },
+                            "message": {
+                                "description": "Specify the task required for the recipient agent to complete. Focus on clarifying what the task entails, rather than providing exact instructions.",
+                                "title": "Message",
+                                "type": "string"
+                            },
+                            "message_files": {
+                                "default": null,
+                                "description": "A list of file ids to be sent as attachments to this message. Only use this if you have the file id that starts with 'file-'.",
+                                "examples": [
+                                    "file-1234",
+                                    "file-5678"
+                                ],
+                                "items": {
+                                    "type": "string"
+                                },
+                                "title": "Message Files",
+                                "type": "array"
+                            },
+                            "additional_instructions": {
+                                "default": null,
+                                "description": "Any additional instructions or clarifications that you would like to provide to the recipient agent.",
+                                "title": "Additional Instructions",
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "message",
+                            "my_primary_instructions",
+                            "recipient"
+                        ],
+                        "type": "object"
+                    }
+                },
+                "type": "function"
+            }
+        ],
+        "top_p": 1.0,
+        "temperature": 1.0,
+        "response_format": "auto"
+    },
+    {
+        "id": "asst_RKJmvhc8yMDEoYwy5sWVqwCc",
+        "created_at": 1716293025,
+        "description": "Analyzes sales-related data to identify trends, patterns, and actionable insights that guide the sales strategy. Collaborates with the SalesManagerCeo to ensure data-driven, tailored strategies for maximizing sales process efficacy.",
+        "file_ids": [
+            "file-O3Qi8BfIWhrlSP6ZxPF0pL6h",
+            "file-0Gt36geMeLNuoaVilBnUGZzc",
+            "file-Icmmjj42xObqhZW1RmgXhCjL",
+            "file-M5Z9p0pZxsTY8Qo1UwMK7mBJ",
+            "file-LFUQfklNbRBX8gbJtX5IXK29"
+        ],
+        "instructions": "# Revenue Creators Agency Manifesto\n\n## Mission\nTo streamline and elevate the sales process for small businesses through the strategic application of AI, specifically focusing on analyzing sales interactions, guiding sales strategies according to the stages of the sales pipeline, and generating personalized sales documents.\n\n## Key Capabilities\n- **Transcript Analysis**: Utilize vector stores to analyze and encode sales and internal meeting transcripts for semantic search and retrieval of relevant past interactions.\n- **Deal and Stage Matching**: Encode historical and current deal data in vector stores for matching with successful outcomes.\n- **Document Generation**: Leverage vector stores to pull relevant sections from past documents for creating highly personalized agendas, proposals, and strategies.\n- **Insight and Strategy Generation**: Apply vector store searches to retrieve strategic insights and proactive guidance for the sales team.\n\n## Agency Structure\n1. **CEO**: Serves as the main point of contact and decision-maker for the agency.\n2. **SalesManagerAgent**: Responsible for analyzing transcripts, matching deals to sales stages, and generating documents. Will also provide strategic sales guidance.\n3. **AccountExecutiveAgent (User)**: The frontline salesperson supported by the SalesManagerAgent.\n\n## Communication Flows\nThe agency allows for direct communication flows between the CEO and the SalesManagerAgent, and between the SalesManagerAgent and the AccountExecutive, ensuring strategic alignment and timely support throughout the sales process.\n\n## Vector Store Integration\nThe described functionalities highlight the critical role of vector stores in enhancing the agency's operations, requiring thoughtful integration and management of this technology within the sales optimization framework.\n\n# ExpertDataAnalyst Instructions\n\nYou are the ExpertDataAnalyst for the RevenueCreators agency. Your primary role involves analyzing sales-related data, including transcripts, CSV files of deals, and historical sales data. Your analysis should identify trends, patterns, and actionable insights that guide the sales strategy.\n\n### Primary Instructions:\n1. Collect and preprocess sales-related data, including transcripts, CSV files, and historical sales data.\n2. Perform in-depth analysis to identify trends, patterns, and actionable insights within the data.\n3. Collaborate with the SalesManagerCEO to provide comprehensive data analysis support, ensuring strategies are data-driven and tailored to maximize sales process efficacy.\n4. Communicate your findings and recommendations to the SalesManagerCEO, allowing for an informed and strategic approach to sales.\n5. Continuously improve your data analysis methods and tools to enhance the quality and impact of your insights.\n\nYour role is pivotal in ensuring that the sales strategies are data-driven, informed by in-depth analysis, and tailored to achieve maximum efficacy in the sales process.",
+        "metadata": {},
+        "model": "gpt-4-turbo-preview",
+        "name": "ExpertDataAnalyst",
+        "object": "assistant",
+        "tools": [
+            {
+                "type": "retrieval"
+            }
+        ],
+        "top_p": 1.0,
+        "temperature": 0.65,
+        "response_format": "auto"
+    }
+]

@@ -1,0 +1,131 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "SalesManagerCeo",
+    "description": "Oversees the strategic sales direction for the RevenueCreators agency, integrating analytical insights to guide the sales strategy. Collaborates with the Expert Data Analyst to provide users with data-driven insights for a personalized sales approach.",
+    "version": "v1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://agency-6yuqkpcx3a-uc.a.run.app"
+    }
+  ],
+  "paths": {
+    "/SendMessage": {
+      "post": {
+        "description": "Use this tool for asynchronous communication with other agents within your agency. Initiate tasks by messaging, and check status and responses later with the 'GetResponse' tool. Relay responses to the user, who instructs on status checks. Continue until task completion.",
+        "operationId": "SendMessage",
+        "parameters": [],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "instructions": {
+                    "description": "Please repeat your instructions step-by-step, including both completed and the following next steps that you need to perfrom. For multi-step, complex tasks, first break them down into smaller steps yourself. Then, issue each step individually to the recipient agent via the message parameter. Each identified step should be sent in separate message.",
+                    "title": "Instructions",
+                    "type": "string"
+                  },
+                  "recipient": {
+                    "allOf": [
+                      {
+                        "$ref": "#/components/schemas/recipient"
+                      }
+                    ],
+                    "description": "ExpertDataAnalyst: Analyzes sales-related data to identify trends, patterns, and actionable insights that guide the sales strategy. Collaborates with the SalesManagerCeo to ensure data-driven, tailored strategies for maximizing sales process efficacy.\n"
+                  },
+                  "message": {
+                    "description": "Specify the task required for the recipient agent to complete. Focus on clarifying what the task entails, rather than providing exact instructions.",
+                    "title": "Message",
+                    "type": "string"
+                  },
+                  "message_files": {
+                    "default": null,
+                    "description": "A list of file ids to be sent as attachments to this message. Only use this if you have the file id that starts with 'file-'.",
+                    "examples": [
+                      "file-1234",
+                      "file-5678"
+                    ],
+                    "items": {
+                      "type": "string"
+                    },
+                    "title": "Message Files",
+                    "type": "array"
+                  }
+                },
+                "required": [
+                  "instructions",
+                  "message",
+                  "recipient"
+                ],
+                "type": "object"
+              }
+            }
+          },
+          "required": true
+        },
+        "deprecated": false,
+        "security": [
+          {
+            "apiKey": []
+          }
+        ],
+        "x-openai-isConsequential": false
+      }
+    },
+    "/GetResponse": {
+      "post": {
+        "description": "This tool allows you to check the status of a task or get a response from a specified recipient agent, if the task has been completed. You must always use 'SendMessage' tool with the designated agent first.",
+        "operationId": "GetResponse",
+        "parameters": [],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "properties": {
+                  "recipient": {
+                    "allOf": [
+                      {
+                        "$ref": "#/components/schemas/recipient"
+                      }
+                    ],
+                    "description": "Recipient agent that you want to check the status of. Valid recipients are: ['ExpertDataAnalyst']"
+                  }
+                },
+                "required": [
+                  "recipient"
+                ],
+                "type": "object"
+              }
+            }
+          },
+          "required": true
+        },
+        "deprecated": false,
+        "security": [
+          {
+            "apiKey": []
+          }
+        ],
+        "x-openai-isConsequential": false
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "recipient": {
+        "const": "ExpertDataAnalyst",
+        "enum": [
+          "ExpertDataAnalyst"
+        ],
+        "title": "recipient",
+        "type": "string"
+      }
+    },
+    "securitySchemes": {
+      "apiKey": {
+        "type": "apiKey"
+      }
+    }
+  }
+}

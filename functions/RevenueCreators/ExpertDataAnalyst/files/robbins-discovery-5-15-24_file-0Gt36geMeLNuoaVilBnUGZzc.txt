@@ -1,0 +1,687 @@
+HubSpot Review - May 14
+VIEW RECORDING - 54 mins (No highlights): https://fathom.video/share/71ZSwn4HwfQ9B4u4SRbcyw_2sqZxQCMm
+
+---
+
+0:17 - John Serrantino (HubSpot)
+  I'm like since 115 I've been on, like, after call after call and I one after this and then ironically I have like one thing tomorrow you would think they'd face out better but alas the world is not that kind to you is not I was just reading indeed laid off eight percent of their workforce never never a great signed that's a perhaps a leading indicator on economic activity yeah  Then the flip side, though, is that's a thousand people, right?
+
+1:03 - Daniel Kurt (revenuecreators.com)
+  Right.
+
+1:04 - John Serrantino (HubSpot)
+  And as someone who knows a little bit about like job board, indeed, as business, given I run one for cannabis, how do you have over 9,000 people working there?  a lot of people, like, yeah, it's a lot of people. And there's no account management and indeed, really, either.
+
+1:23 - Daniel Kurt (revenuecreators.com)
+  It's not like they talk to you.
+
+1:24 - John Serrantino (HubSpot)
+  You can't, like, have you ever talked to someone from Indeed?
+
+1:27 - Daniel Kurt (revenuecreators.com)
+  No, I have indeed not.
+
+1:30 - John Serrantino (HubSpot)
+  I only did when we accidentally were paying for job postings and we failed to pay them. That was the only time I've ever talked to them when they called them.  We're like, you owe us $2,000. was like, do I?
+
+1:41 - Daniel Kurt (revenuecreators.com)
+  No, I did not know I was boosting these jobs.
+
+1:46 - John Serrantino (HubSpot)
+  So we're not going to pay that. Yes, this is wild.
+
+1:56 - Daniel Kurt (revenuecreators.com)
+  I somehow didn't say the work.
+
+1:59 - John Serrantino (HubSpot)
+  I was just working on the work. No, 40 minutes. Oh, no, it's okay. I'm sorry.
+
+2:04 - Daniel Kurt (revenuecreators.com)
+  No, that's all right. It's okay. I've been trying to crack the code on something since the AR seminar I went to, I guess three or four weeks ago, and I finally figured it out.  I figured out how to add knowledge files to assistants that are created through chat CPT, which are not like accessible through the chat CPT interface, but you create them, you can interact with them through the API.  So I figured out how to automate getting files into its knowledge base, which could be up to 10,000 files far, far bigger than what you can do by just uploading files to chat CPT through their interface.
+
+2:46 - John Serrantino (HubSpot)
+  So that's really cool. This is the use case where you can essentially build a bot that's industry or business specific, right?
+
+2:53 - Daniel Kurt (revenuecreators.com)
+  It goes so far beyond that. So really so far beyond that. And then I figured out, you can't chat through it to it.  group chat GPT, but I found a company that offers a chat interface that's plug and play. You just basically put your API key in there.  All your assistants are there. now you can. So I'm basically building a sales GPT that is was an expert sales person is now a sales manager has read gaps on your cell, blah, blah expert in all the sales methodologies.  I'm going to be dumping all of my transcripts in there and giving you definitions around my sales process. And it's job as sales manager is to help me craft meeting agendas, solution demos, proposals, handle objection like literally I will just be able to talk to this thing to help me and it has all the transcripts automatically in there.
+
+3:46 - John Serrantino (HubSpot)
+  That's really cool.
+
+3:47 - Daniel Kurt (revenuecreators.com)
+  And like this is the stuff I'm doing, Dan. So I'm doing it for ourselves and now we're going incorporate it into a revenue operations process and basically build these minds.
+
+3:58 - John Serrantino (HubSpot)
+  Yeah.
+
+3:59 - Daniel Kurt (revenuecreators.com)
+  That's right.
+
+4:00 - kacie south
+  Sorry, I was going to pull me blank or something.
+
+4:03 - John Serrantino (HubSpot)
+  Oh, I don't know where we sent you.
+
+4:05 - kacie south
+  I'm sorry. How are we doing? We're good. We're going to look at the big screen so it's going to look like we're not looking at you but we are.
+
+4:12 - John Serrantino (HubSpot)
+  That's what we're So it was actually nice because Dan and I were just chatting for a minute. First off, should probably introduce Dan.  As I mentioned, I wanted to bring a partner in based on kind of the needs set and also just some other eyes on the technical side.  Dan's awesome. I'd been with HubSpot for six years and I actually worked with Dan six years ago when I was a channel account manager and Dan was running a top five partner with HubSpot in terms of enabling businesses.  Dan has since returned to our ecosystem. I can let Dan maybe speak for himself a little bit.
+
+4:47 - Daniel Kurt (revenuecreators.com)
+  Dan, feel free to say hi to Casey and Caroline. Hey, Casey and How's it going?
+
+4:52 - kacie south
+  Great.
+
+4:53 - Daniel Kurt (revenuecreators.com)
+  to you as well. Yeah, think John just said it. Yeah. I have really good understanding of integrations and just, you know, uh, business acumen as well.  So it's not just post product and piece. I ran a business and think about things from a business owner standpoint.  So really excited to learn more about what you're trying to accomplish here.
+
+5:13 - kacie south
+  Wonderful.
+
+5:14 - John Serrantino (HubSpot)
+  So I gave Dan the download on what we're trying to accomplish when it comes to thinking about the essentially the management of a database and the management of scheduling for what ends up being a relatively complex series of organizations.
+
+5:35 - kacie south
+  I think that's a fair way of putting it.
+
+5:37 - John Serrantino (HubSpot)
+  I think that's a good way to put it.
+
+5:40 - kacie south
+  I would say less emphasis on the calendaring part. I think we're going to end up having to do a lot of manual entries, honestly.  Um, definitely want to be able to track it within, you know, the clients or customers that we want to contact within the system.
+
+5:53 - John Serrantino (HubSpot)
+  And, you know, one of the things that we're noodling with and I want to attack, it's sort of heading.
+
+6:00 - kacie south
+  on.
+
+6:00 - John Serrantino (HubSpot)
+  We talked about iCal a lot last time and that's an important piece. Now, I've done a bit of diligence on my side and we are running into a little bit of a wall and we want to talk through ways to work around the wall.  I think there's a very direct like throw a rope over the wall method and then there's probably methods that involve like digging a hole under the wall which would be significantly more work.
+
+6:26 - Daniel Kurt (revenuecreators.com)
+  I'm interested in how you flesh out this big metaphor you just laid out.
+
+6:29 - John Serrantino (HubSpot)
+  I'm going to keep metaphoring my way into everybody forgetting about the issue. So, so here's the issue. iCal is terrible when it comes to integrating with anything.
+
+6:42 - kacie south
+  I think we all sort of knew that from last time we're chatting through.
+
+6:45 - John Serrantino (HubSpot)
+  The best solution here is one that I'm just going to say and let it sit and then you guys can tell me why we can't do it because I have to fill it out.  Okay. we weren't then just make sure I get my semantics.
+
+7:00 - Daniel Kurt (revenuecreators.com)
+  correct here.
+
+7:00 - John Serrantino (HubSpot)
+  No, if we were to connect Tony's calendar, in this case, to a Google calendar or integrate the iCal with Google calendar, we would then sync the Google calendar, which would then solve this problem entirely and be a very direct, that is the rope over the wall.
+
+7:16 - Daniel Kurt (revenuecreators.com)
+  Or Outlook, for that matter.
+
+7:17 - John Serrantino (HubSpot)
+  Or Outlook.
+
+7:19 - kacie south
+  No, I don't like Outlook. Let's not do Outlook.
+
+7:22 - John Serrantino (HubSpot)
+  Forget about Outlook, Dan, I told you. I told you about Outlook.
+
+7:25 - kacie south
+  Well, RRI likes Outlook. I do not. So, we're very Mac based. Google is a little bit more compatible, but yeah, go ahead.
+
+7:35 - John Serrantino (HubSpot)
+  First off, is there a concern with doing that that we should be aware of before we even go down that road of thinking about doing it and explaining what needs to happen?
+
+7:44 - kacie south
+  Because the what needs to happen is actually very simple. I would think so. So, the really only red flags that we have with Google and probably less with a calendar than anything else is just the data.  And what they sell. and share and we don't need that or what that going out I nailed it so that's exactly what I said we were thinking through solutions and there'd be concern around it and I even went as far as to say I think the calendar might be more navigable than say email or any of that like contacts and email I would say like a hundred percent off of Google like we don't even keep WhatsApp on our phones like stuff like that.  So we've got Chrome right now just because we have to but otherwise we wouldn't even have the application on our computers.
+
+8:34 - Daniel Kurt (revenuecreators.com)
+  What was the application you just said?
+
+8:41 - kacie south
+  So I'm thinking you know if I have to be doing some manual entries anyway I'll look at iCal and see if I can do an export into itself and I could just run a report once a week and then upload it.  I mean that's not I'm gonna have to be in the system doing major maintenance anyway I think is what I'm kind of coming to the conclusion.  I mean, I don't see how you can get away from not having a CRM manager in the office. You know, at least a certain amount of time dedicated to it.  So, yeah, the conclusion that I've come up with few things is that I just need to find out how to get this stuff into an Excel that can then map and talk to the CRM and then I can do the uploads.  I don't know.
+
+9:25 - Daniel Kurt (revenuecreators.com)
+  That's certainly feasible, right? We can absolutely go down that path. If we're able to get around the privacy concerns around just the calendar, it can be straightforward.  In my understanding, there's been a bunch of different businesses. And is Tony's calendar managed just on one calendar? are there multiple calendars that sort of?
+
+9:47 - kacie south
+  Complete disaster. be honest, we have one account. We have one account called TR master and on that account, we have his calendar and his contacts and then on all of our.  devices, which for some people is up to four, we all sign into that one account. So Apple, it's very confused.  Like right now I'm assigned like Tony's picture is my face and I cannot change it because if I change it, then my face will be his on his side and then it'll get just so weird.  So I mean, look, in theory, if it was not a data issue, I would move all of this to Google and have all of us work off of that platform, but it's in the cloud and it's made to do that versus Apple, which is more device oriented.  So, but I just don't think that that's a viable option right now for us. So I don't think it's worth even really considering, to be honest.  Do you have brilliant ideas, but I don't.
+
+10:51 - John Serrantino (HubSpot)
+  No, I haven't had one of those in ages. Do you think the calendar aspect is something worth looking into?  do that, starting maybe just to parse back.
+
+11:02 - kacie south
+  I mean, I feel like I could even do that without anybody even knowing, right? Because when it just be a mess, I mean, of course I would check.  But it shouldn't add to anybody. Because couldn't I just have like my Google account that I make and then sync that calendar up and then use that one to import?
+
+11:17 - Daniel Kurt (revenuecreators.com)
+  no one would even know. doesn't affect anybody's workflow. That's correct.
+
+11:21 - kacie south
+  Yeah. creating anything in the Google Calendar, but it would only necessarily need to be a one-way sync. And I'm sure we could create that.
+
+11:29 - Daniel Kurt (revenuecreators.com)
+  I think even, I mean, with that integration in place, meetings obviously change. They get rescheduled, they get canceled. All of that would still be reflected, right?  would be dynamically updating into HubSpot. So HubSpot would have full visibility over everything going on.
+
+11:46 - kacie south
+  Which, again, is not super critical just because, I mean, we change our schedule to change as daily, minutes before, even.  Like, I just found out I have to hop at 4.15 most likely. But I'm going to try not to.  So, I'm going to have to go in and do stuff retroactively anyway, with our meeting notes. I'm going have to go into the contact and throw those in.  So, I'm going to have to be in there, so it's not totally critical. Obviously, the more automation we have, the better, the less work I have to do.  Yeah, up to date, it's great.
+
+12:21 - John Serrantino (HubSpot)
+  Okay. one of the big things we talked about thematically last time was the idea of outsourcing as much of the lifting as possible to get all this stuff stood up.
+
+12:30 - kacie south
+  Right.
+
+12:32 - John Serrantino (HubSpot)
+  I think it might be good to sort of flesh that out, and we can almost use this as a mini-scoping for Dan, so Dan can understand the- I think it's stuff I need to do.  Well, I don't know who wants to leave, some of the questions we might ask around that.
+
+12:49 - Daniel Kurt (revenuecreators.com)
+  know again, then I give you a little bit of a background here.
+
+12:52 - kacie south
+  So how do we want to approach that? Well, I get to say, it's not what I'm thinking if you want, I have experience building out of CRM.  So I'm totally comfortable with doing the mapping and coming up with the categories and the fields and all of that and making sure that their right ones like drop down versus multi select whatever.  So I'm totally comfortable with that. I just want to make sure that I have hand holding for the integration process and like maybe running some tests imports just making sure everything does actually align.  And I'll kind of need help with maybe a road map of like, okay, here's like what we can do.  The one that I built was from scratch. So it was us really kind of like putting on the page, whatever we wanted and then coming back and saying, yes, we can do this.  No, we can't. And then we had a team in India. I think it was working with us overnight to help like really integrating and implementing into the system.  So maybe we don't need that, but I'm comfortable with the mapping piece. I'm very comfortable with coming up with the fields and, you know, key terms and anything like that that we need.  What I just want to make sure is that I have some handling with the integration to make sure that it's seamless and kind of more project below I could use a lot of help.  With that, like the project management standpoint, like, we need contacts to be cleaned up and ready to import by this state.  We need the fields created by this state. Our target would be a 90 day implementation, like we want to be up and running in 90 days ideally, which I know is fast, but I think we can do it.
+
+14:16 - Daniel Kurt (revenuecreators.com)
+  I think so. We have backed up little bit. So, you know, just even before setting up the the CRM and doing everything we just talked about.  What is the purpose of HubSpot? My understanding is, you know, Tony's obviously very busy. He's got a lot of different businesses.  There's contacts spread all over the place. So you want to central repository of all the contacts and companies that you're interacting with.  You know, that just helps in terms of tracking all that activity, but then you're able to do some cool things like, okay, Tony's going to be in San Diego next month.  Who's around there? Who should we be meeting with? time can we get on? How can we take advantage of taking a flight and going there, essentially?  Yeah. Beyond that, are there other use cases, other opportunities you say?
+
+14:59 - kacie south
+  You know, big. The big thing I was thinking about this yesterday is there's a lot of cross-pollination between different companies.  So we have several contacts that were introduced to Tony through this company who we're no longer working with, but I'd still want them to be tagged as the company name in some way to show that there was a relationship.  Because I'd love to be able to pull that list of like, hey, who did we get introduced to buy this company, even though we don't use them anymore, and pull that whole list, so things like that.  So didn't ask you about the relationship side on the companies and link like that. So I would say that's really important.  A lot of just kind of more than historical data. were in a meeting the other night and someone said, who is this guy, they're saying that they're working with you.  And I'm like, I haven't heard that name, Tony's like, I haven't heard that name. So what I have to resort to is searching in my finder on my map and I was able to pull up a text thread that had this guy's name in it.  I found the history and I was like, hey, here's the context of this. this guy is. Now, if we had had a CRM, I could literally copy and paste that text into there, we would just search the guy's name and boom, would have been done.  So it's stuff like that, just we're having to do a lot of hunting for information and it's just not, you know, of time and we want accuracy, which we don't have right now.
+
+16:19 - Daniel Kurt (revenuecreators.com)
+  Okay, that all makes sense. Could we dig in a little bit into all the different ways you can envision slicing and dicing this data?  Just, I want to get to the heart of like, okay, we've got data coming in from all these different places.  Yeah. How do we make it meaningful and consistent, right? like, how do we want to use that?
+
+16:38 - kacie south
+  Well, I think from a consistency standpoint, you're never going to get it with our team. So what that's going to take is me going in weekly.
+
+16:45 - John Serrantino (HubSpot)
+  And that's what we talked about before. like I need to be able to run reports.
+
+16:49 - kacie south
+  What's been entered in the system in the last week? What contacts are in there? Because you're going to find Joe the plumber and they're going to find Joe Smith.  And they're going to be the same person. I need to run these reports because I'm going to have to  I go through it, and I'm going have to talk to people and say, who is this Joe? know who this Joe is, but who is this Joe, if it's the same person that I need to combine the records, ideally with a click of a button, can I do that?
+
+17:12 - Daniel Kurt (revenuecreators.com)
+  Yes, you can, actually.
+
+17:13 - kacie south
+  So stuff like that, that's why I think I'm going to have to be in it a lot more than I thought.  It's not going to be a benign thing, you know?
+
+17:21 - Daniel Kurt (revenuecreators.com)
+  Okay, that makes sense. In terms of the segmentation, are we tracking which company they are working with or where they came from?
+
+17:32 - kacie south
+  so we're going to want to trap the individual's company, really kind of any ties to other companies that Tony has or individuals that are related to it.  We want categories people like lawyers, farm lawyers. We want medical attorneys, we want medical referrals, because he's constantly trying to help people and they'll come to him and someone will say, hey, know, my dad has got cancer and Tony wants to be able to look at a list instantly and say, yeah, here are my top five or top 10 people.
+
+18:00 - Daniel Kurt (revenuecreators.com)
+  in the field that I can refer you to. Okay.
+
+18:03 - kacie south
+  Those are kind of the customized dashboards that I was talking about also where he can just add a glance go on his app and hopefully I can have it where we have it programmed for it to be right there for him.  I mean 99% of the time I'm going to be with him or he'll call me and I'll run it for him but I want to just see if we can make this as easy and automated as possible and he's totally open right now which is great.
+
+18:24 - Daniel Kurt (revenuecreators.com)
+  Yeah, what if it's type of people who will be entering data into the system.
+
+18:29 - kacie south
+  Will there be people manually logging data?
+
+18:31 - Daniel Kurt (revenuecreators.com)
+  Will it all be done?
+
+18:32 - kacie south
+  I'll log a lot of it um you know ideally like I said the contacts would would go in and then I'll just have to double check them and that's just unfortunate I think which is what we have to do.  I don't think I trained him out of the way that he enters contacts. I enter contacts the same way so I don't have any problem with it but the masses do because I don't Joe the plumbers last time I just know him is Joe the plumber right?  Right. We still need to be able to search for that. So he still needs to be able to search like Joe Plummer and have that Joe pull up.
+
+19:04 - Daniel Kurt (revenuecreators.com)
+  Because he doesn't know where he needs to think about the last name, right? Yeah. So Tony is entering contacts into iCloud, right?  Yeah. That's really what his little personal CRM is. And those were then automatically flown to HubSpot. And then at that point, we can sort of quarantine them, right?  For them to be properly organized and classified, et cetera.
+
+19:27 - kacie south
+  Yeah. And then that would go back into the iPhone in an organized way or no. Because I know that not all the fields will transfer to the Apple contacts.  And I told him that the other night. I said, we're just going to have to get used to what we're doing.  So if you want to text somebody, go to your Apple contacts. Fine. But if you want data or information on these guys, you're going to have to click into the app.
+
+19:50 - Daniel Kurt (revenuecreators.com)
+  And he's fine with that.
+
+19:51 - kacie south
+  OK.
+
+19:53 - Daniel Kurt (revenuecreators.com)
+  Interesting. Yeah, I mean, I think we can configure it in terms of which way it sinks. It can be died by directional.  But we don't. I want to screw with how he is having his data and his iCloud, but we want to be able to assist him properly using the data and HubSpot thing to be more with it, as long as it's searchable.
+
+20:12 - kacie south
+  So if I, I mean, we'd have to look at the Apple contacts fields. I don't know if it makes sense to have like Joe Smith and then the company be like the plumber, you know what I mean?
+  SCREEN SHARING: Daniel started screen sharing - WATCH: https://fathom.video/share/71ZSwn4HwfQ9B4u4SRbcyw_2sqZxQCMm?timestamp=1223.732122  I don't know how we would do it.
+
+20:28 - Daniel Kurt (revenuecreators.com)
+  So here's all the standard mappings, know, name, prefix, company, title, emails, websites, addresses. then we can do additional mappings here in terms of all the different email types and phone types and birth date and, you know, my space ID.  You know, different, you know, mother, father, parents, stuff, stuff like that. And then obviously there'll be much more power in.  and capability inside of HubSpot as well, we can set up different, you know, parent-company child relationships, we can do different labels in terms of how one contact relates to another contact, you know, there's quite a bit that we can do in HubSpot.
+
+21:16 - kacie south
+  for example, here's another really good example because this happens all the time, especially lately. He went to a gathering and met several people, we'd want to tag the new contacts as met at so-and-so's house, where right now it's Dan from Dr.  Oz's house, you know what I mean? Which is fine because that's like how Tony would be able to relate to it and how he would know.  I get it. I really get it and I mind works the same way, but for, you know, tracking and then just all that stuff, it really needs to be properly entered.  Understood. In this folk life. Like if he has a meeting with Dan from Dr. Oz, like we have to be able to go in and know who Dan is and pull his email and I hope that to-
+
+22:00 - Daniel Kurt (revenuecreators.com)
+  set up meeting for example. Right. Right. That makes sense. Okay. What else do we need to know?
+
+22:09 - kacie south
+  Um, attachments are going to be really big for us. But again, that's going to be probably more manual entry.
+
+22:15 - Daniel Kurt (revenuecreators.com)
+  Uh, as far as like attachments, uh, we'll be meeting notes primarily PDFs.
+
+22:20 - kacie south
+  If there was a spot in there that we could throw in links, we have drop box links and meeting recordings, we may do that.  Um, a lot of this stuff we'd like to keep secure. So we probably wouldn't do that with the drop box meetings.  Like, it doesn't even want all the staff having access that does. So you probably won't do that. Okay. Any attachments to contacts would be like photos, meeting notes.  That's pretty much it.
+
+22:46 - Daniel Kurt (revenuecreators.com)
+  How are those meeting notes captured right now?
+
+22:50 - kacie south
+  Uh, they're captured in a program called Notability. And then we would have to probably just export that to a PDF and load it into the CRM.  And we're looking Looking at how to revamp notability to we have our next project after this is going to be how do we file with the notability and getting in touch with the CEO or something there to really guide us through that.
+
+23:11 - Daniel Kurt (revenuecreators.com)
+  Say that last part again I'm sorry.
+
+23:13 - kacie south
+  Our next project after the CRM is figuring out how to file with the notability so we can find stuff because he can't find anything in there at this point.  I think it's going to alleviate a lot of that because then it would actually have a singular housing point for it.  But still he wants to still be able to look within the applications and find things.
+
+23:32 - Daniel Kurt (revenuecreators.com)
+  I gotcha. So he's taking notes. This is an iPad app.
+
+23:35 - kacie south
+  He's basically taking notes on the iPad app.
+
+23:37 - Daniel Kurt (revenuecreators.com)
+  Exactly. Yeah. I gotcha. Okay. Interesting. All right. Just a cursory glance.
+
+23:43 - kacie south
+  I don't think there's an integration between notability and HubSpot, but there can be other ways we can explore that.  It's pretty clunky, honestly, with their features and stuff. It's been fun. It's got some things that work extremely well, which we wouldn't deviate from it.  But in terms of like tagging and whatever, it just doesn't exist.
+
+24:04 - Daniel Kurt (revenuecreators.com)
+  So... Interesting. Okay. else should we be knowing about at this point?
+
+24:10 - kacie south
+  Yeah. Okay. Yeah. A lot of it is just going to be the customization of reports, which depending on the user interface, again, like I'm not afraid to dive in and figure it out.
+
+24:24 - Daniel Kurt (revenuecreators.com)
+  I just haven't seen what HubSpot likes.
+
+24:26 - kacie south
+  Sure. I think really we just want, you know, I think really the biggest thing that I would need help with is just kind of the workflow.
+
+24:45 - Daniel Kurt (revenuecreators.com)
+  Ooh. She's frozen for me, John, know.
+
+24:51 - kacie south
+  Oh, okay.
+
+24:52 - Daniel Kurt (revenuecreators.com)
+  There we go.
+
+24:54 - John Serrantino (HubSpot)
+  We're back.
+
+24:54 - kacie south
+  I think I was just saying that the biggest piece that I would need help with. It's probably like the next few months and rolling it out and with the integration and making sure that that's seamless from a standpoint, I don't know that there's anything that anybody outside really do because you guys aren't going to know the contacts any better than anybody else, you know, right, right.  I've been saved for me to run and that's fine.
+
+25:19 - Daniel Kurt (revenuecreators.com)
+  I understood. So, you know, our projects come in a couple different flavors. Sometimes we're just teaching people how to fish, right?  So you're doing all the work yourself and where your guide. Sometimes we'll fishing with you and, you know, we'll, we'll do some of the work on our own, but, you know, we'll, we'll be building things out together and more collaborative effort.  And sometimes people just want the fish and it's them on a silver platter, right? Ready to eat, ready to go.  I'm sure you're extremely busy. So are you 100% set on doing all the work yourself?
+
+25:51 - kacie south
+  No, I love to hear what you could do. I don't even know what the options are.
+
+25:55 - Daniel Kurt (revenuecreators.com)
+  So that would be great. Okay, very good. You know, we've got the expertise and not to say you You couldn't get up to speed pretty quickly, but what's your highest value use of your time, right?  I think that being on us and we can execute pretty quickly on your behalf, this isn't an overly complex use case at all, right?  It's a pretty simple one, but it needs to work really, really well with the volume that you'll be using it at.  Yeah, and we have a lot of people that we've got to basically get on the bandwagon, which it seems like we can do just because it's going to hit all the marks in terms of features that we want to integrate.  Yeah, talk to me about what you mean by getting people on the bandwagon.
+
+26:33 - kacie south
+  You know, there's other people that have been, you know, trying to come up with their own solutions that I haven't seen as feasible.  Okay. No means being like working truly out of Apple contacts. I just don't think that that's where we need to be because it's just so lack of better word to  up.
+
+26:52 - Daniel Kurt (revenuecreators.com)
+  Yeah, I'm sorry, but it just is and it's not working with all of our devices. Sure. Would you excuse me, my daughter just got
+
+27:00 - kacie south
+  I don't think so. The door is locked.
+
+27:01 - Daniel Kurt (revenuecreators.com)
+  need to open it again.
+
+27:03 - John Serrantino (HubSpot)
+  Guy goes and let's his daughter in the house.
+
+27:06 - kacie south
+  Oh, great. Right as I'm smearing on the zoom.
+
+27:08 - John Serrantino (HubSpot)
+  That's great. Oh, she's fine. I'm sure she's turned worse. She can't even get in house right now.
+
+27:16 - kacie south
+  Maybe a camera follows him.
+
+27:19 - John Serrantino (HubSpot)
+  He has one of those like zoom cameras that he has the following, which can actually be very distracting if he just like kind of moves to the side a little, you know?  We're admiring your camera that follows you around your office.
+
+27:35 - Daniel Kurt (revenuecreators.com)
+  Oh, yeah. Studio display.
+
+27:37 - kacie south
+  Do you like it or is it distracting?
+
+27:39 - John Serrantino (HubSpot)
+  I find it a little distracting at times, Dan, from being.
+
+27:44 - kacie south
+  Okay.
+
+27:46 - Daniel Kurt (revenuecreators.com)
+  The other issue is like you can see I'm actually wearing sweatpants right now. So there's also that. Okay, so all right.  But I'm really comfortable. So we're good.
+
+28:00 - kacie south
+  We want.
+
+28:01 - Daniel Kurt (revenuecreators.com)
+  Yeah, OK, I can I can give you a couple of options right us doing it for you or, you know, doing it with you.  So we'll give you those two options. What is your timeline on this?
+
+28:15 - kacie south
+  What do you hope to have a solution in place? said 90 days. So ideally like I told Tony that I really think we can get it done in 90 days.  I said I don't want to over commit just because I haven't had this call with you guys, but I really think I do it in 90 days.  I don't know if that's realistic or not. I have to scrub basically 5000 contacts, but we have a ton of duplicates.  Yeah, so. OK, so when you say scrub 5000, you're prepared to go into iCloud and really just know I'm going to do an Excel export and just great.  Hey guys, I've got to run super quick. I'll be right back. Caroline, can you take over for now? There's something happening right now with a meeting one second.
+
+29:04 - John Serrantino (HubSpot)
+  So, Carol, one question, just thinking it through, and when we think about getting everybody on the bus for the decision-making side, what does that entail, is that you guys selling to them?  Is that us empowering you?
+
+29:25 - kacie south
+  Is that us presenting to them? Um, I think we actually did talk about this a little bit, um, yeah, I think we might ask you guys to support us in creating some sort of presentation that we can give to the whole team.  So, but I'm not like Casey would probably have more thoughts on that, but we do, um, want to kind of make sure we present this to everyone and make it attractive and fun Yeah.
+
+29:58 - John Serrantino (HubSpot)
+  Because I think, I think the recommend Yeah. Ended path and we can we can loop case in with more detail on it would be Dan and I I mean essentially like my proposal is the easier of the two Dan's obviously got a little bit more work to do But getting you guys the proposals from a cost perspective and then helping map out the like use case Here's what you'd present internally side of things to get everybody excited which could involve a call where we're on it We're walking through the tool or a deck I think this group from my experience with the other side of the TR world Really liked like a deck that just spelled out like here's the things it does and then went oh cool Yeah, we're on board versus like some heavy product oriented demo, but I would say like discretion really around that Um, yeah, I think I think that would make sense.
+
+30:48 - kacie south
+  I'm sorry for like computers like below and up That's like it's hearing all those things So, uh Yep So, yes, that would be really helpful and um
+
+31:00 - John Serrantino (HubSpot)
+  And then I think the other question would be, oh gosh, I lost it completely. Wow, we're going to come back.  Oh, um, now didn't come back. It's gone.
+
+31:15 - Daniel Kurt (revenuecreators.com)
+  And you got any questions?
+
+31:17 - John Serrantino (HubSpot)
+  lost my question. Hang on.
+
+31:19 - Daniel Kurt (revenuecreators.com)
+  Where did they go I mean, Casey avoid the need to clean up all the contacts as they exist right now in iCloud.  HubSpot's got some great deduplication functionality. And it's also, know, it basically serves as a spreadsheet in many ways, right?  We're able to set up these views and edit properties within that table view. So anything you can do and excel can be done in HubSpot most likely in a much more simple way.  We would have to be mine. of the bi-directional sync. really don't want to, you know, send data back to iCloud in a way that Tony's not, you know, wanting to see it.  So we have to be very cognizant of that. But I think we could save quite a bit of time by using HubSpot.  I think it's more quickly that unorganized data.
+
+32:21 - kacie south
+  Awesome. Oh, sorry. Nancy just missed us lot. Just week, two things. John was asking how, basically, we want to move forward, like, do we want them to create some sort of, like, presentation for us, then we can then present to the team.  And I said, you don't have to wait on that, but I think that's something we are, like, important that they create, like, a deck or something.  Yeah, I mean, that might be something that we want to do just to get everybody on board. But also, I think if we come up with a good enough solution, it's going to be inarguable, you know.
+
+32:56 - Daniel Kurt (revenuecreators.com)
+  Sure.
+
+32:57 - kacie south
+  Yeah, absolutely. And really, if Tony's on board, he's going to drive it. And it's his, It's his business, he can tell us what to do, whatever he wants to.
+
+33:03 - John Serrantino (HubSpot)
+  Okay.
+
+33:06 - kacie south
+  One last to pitch to first. And then, um, then we'll go from there, but he's excited about it. I've been excited about it and I think we have good solutions.  And then, um, Daniel was saying that. They might be able to support the cleanup, like within HubSpot. Oh, interesting.  So they have, like, deduplication functionality. And there's a way to make it like mindful of the five directional sync.
+
+33:32 - Daniel Kurt (revenuecreators.com)
+  So it wouldn't like mess up. Oh, interesting. Okay. To dig into that a little bit more. Um, so, you know, we connect iCal, I'm sorry, um, iCloud and, uh, get all the contacts into the HubSpot.  HubSpot's got deduplication functionality. can merge contacts very easily. Uh, HubSpot can essentially do anything. can do it Excel. So imagine a big Excel spreadsheet with all the contacts there and then all the fields that you want to review.  You can literally just click on that field change. What's written there? Click Save, and now that record is updated.  So almost anything you can do in Excel can be done more easily inside of HubSpot. then it will sync right back to iCloud.  But I was just saying like, you don't want to be mindful. We don't want make sure the data that's going back into iCloud is what Tony's expecting and there's no surprises.  So we have to just play it. Yeah. does that sound interesting to you?
+
+34:25 - kacie south
+  Yeah, I think we should definitely look into that more with the product apps.
+
+34:28 - Daniel Kurt (revenuecreators.com)
+  Okay. Wonderful. Are there any? So I'll flush out a time. I think 90 days is doable. There's no doubt about it.  I think there's a possibility to potentially move in a bit faster. So it really just depends on your bandwidth and what you're taking on personally versus having my company do.  Yeah. But I think that is a very achievable timeline.
+
+34:55 - kacie south
+  Okay.
+
+34:56 - Daniel Kurt (revenuecreators.com)
+  Great. Yeah. Absolutely. So John. And what are our next steps?
+
+35:03 - John Serrantino (HubSpot)
+  Yeah, it's a good question. Casey, I think we want to keep moving, so we keep this project from the HubSpot side.  think we talked last time a little bit about the pricing.
+
+35:17 - kacie south
+  I think it's probably worth firming up and getting kind of quoted.
+
+35:21 - John Serrantino (HubSpot)
+  I have to think about that also.
+
+35:23 - kacie south
+  And I think we can definitely turn down the users significantly.
+
+35:26 - John Serrantino (HubSpot)
+  Perfect.
+
+35:27 - kacie south
+  I think I can have one person from each department rather than having everybody have access. So I really think we can turn down the number of users.  don't recall how that affects the price.
+
+35:38 - John Serrantino (HubSpot)
+  It does. Give me account of where you're thinking we'd be at.
+
+35:42 - kacie south
+  I don't know. if we went, didn't I say 14 or 15 before?
+
+35:45 - John Serrantino (HubSpot)
+  if we went down this set? Yeah, and I think that, yeah, actually it's funny enough. I literally have it on screen on my side as six for whatever reason, just as well.
+
+35:54 - kacie south
+  Happened to click, too. And what if I was going to ask you guys, what about storage? Do we get charged for that?  Because we're going to be having all All these files in there, like, storage would get pretty big.
+
+36:03 - John Serrantino (HubSpot)
+  No storage, no storage, no storage charge, storage, yes, no, no charge.
+
+36:08 - kacie south
+  No, please.
+
+36:08 - John Serrantino (HubSpot)
+  Okay, great. Yeah, so I think it's a HubSpot, like the way I always like to look at this is let's get the costs out there.  So the HubSpot cost is the easier of the two is something I said when you're outside the room. Dan now has the insight to be able to kind of frame this up on his side in terms of and Dan, I'll leave that to you, but like here's what Dan's world looks like.  And then I, you know, I think a little bit of it is probably giving you some ammo to put together to present internally and get everybody to go, cool, we're, let's, let's move, let's do this.
+
+36:41 - kacie south
+  I agree. So for me, the biggest kind of like questions that I have in my mind are I haven't seen what HubSpot even looks like.  have a sense of demo.
+
+36:50 - John Serrantino (HubSpot)
+  had the time to look at the idea.
+
+36:53 - kacie south
+  So the biggest question in my mind is what am I going to be seeing on the screen because I have no idea.  And then, you know, I think a little bit more clarity would be great around, like, that do it alone together or hand it on a platter.
+
+37:07 - Daniel Kurt (revenuecreators.com)
+  What does handing on a platter look like, I guess, would be kind of a... So we're meeting roughly once a week.  We could potentially go a couple of weeks between meetings. We'll essentially move as fast as you want to move.  And it's really all about you getting us the information and the context we need to execute on your behalf.  So that's really, really what that means, right? We're doing all set up and configuration within HubSpot. We're leveraging our expertise and our knowledge in terms of best practices and the right way to do things.  And then we're calibrating around the unique characteristics of, you know, Tony and the businesses. So it's really just about you providing the resources and the context we need to do the work that needs to get done.
+
+37:50 - kacie south
+  And that's where you can give me, like, the target. So I need to hit, like, for info that you need, right?  Correct, yeah. And then would that also look like me saying, like, hey, um...
+
+38:00 - Daniel Kurt (revenuecreators.com)
+  You know, should this be a multi-select or should this just be a drop-down or You know a blank field and you guys can kind of guide me through that in terms of best practices and how we can really streamline everything But well, you only have to ask us we're gonna look at the data and we're gonna be prescriptive and you know Share what we think should get done But obviously we'll make recommendations.
+  ACTION ITEM: Provide details on how contacts are manually added to iCloud - WATCH: https://fathom.video/share/71ZSwn4HwfQ9B4u4SRbcyw_2sqZxQCMm?timestamp=2297.7999
+
+38:22 - kacie south
+  You'll make decisions and then we'll execute on your behalf Okay, and then just this is random, but important What's the best way to communicate with you guys cuz I'm a all hours of the day sending stuff at 5 6 2 a.m And like so how would I flow to you guys if there's you know something that comes up and How often or like how long do people keep you guys going?  it be for like the first three months of say the 90 days you get going in a month after like what?
+
+38:50 - Daniel Kurt (revenuecreators.com)
+  How does this usually work? So we'll want you to be as self-sufficient as you want to be if you say I want the keys to the kingdom and I want all standard operating procedures properly  detailed, documented, my team trained up and I'm done with you after three months. We're good. We can do that, but then you can decide to leverage us on an ongoing basis if there is that type of work.  You know, it really, it really depends on what you're looking for. I'm not seeing a lot of complexity in here that would require us to do work going forward, right?  Once it's set up and configured, I it's like, I haven't discovered anything in this conversation and John catching me up on previous conversations that indicate you'll need additional hand holding afterwards.
+
+39:32 - kacie south
+  I think of anything really crazy. The only thing I could think of would be maybe we want to add something like a field and I would love to be trained on how to actually do that myself.
+
+39:41 - John Serrantino (HubSpot)
+  Absolutely. Yeah, that's cable stakes, super simple stuff.
+
+39:45 - kacie south
+  And then up and from is easy to do.
+
+39:49 - Daniel Kurt (revenuecreators.com)
+  But one thing will want to be very, very mindful of it. This is an opportunity to put data governance policies in place, right?  So you'll have one super admin view that in charge of anything that would mess up the data, right?
+
+40:03 - kacie south
+  That's not what would do.
+
+40:05 - Daniel Kurt (revenuecreators.com)
+  That's it, yep, you got it. So everyone else will be very, very prescriptive in what they're able to do and what they're not able to do inside of HubSpot.
+
+40:14 - kacie south
+  Okay, that's great. So you guys would help like create SOPs for best, you know, like best practice.
+
+40:21 - Daniel Kurt (revenuecreators.com)
+  Wow, that's amazing.
+
+40:23 - kacie south
+  Yeah. can train everybody in the last one, but if you guys do that, that could be really cool.
+
+40:28 - Daniel Kurt (revenuecreators.com)
+  Absolutely. Yeah, so our whole thing is revenue operations. work with businesses and align the people across the seed systems and data and we try to remove friction with all of that.  So they're actually being done consistently and the data is trustworthy and actionable and you can get insights out of it and take action quickly.
+  ACTION ITEM: Provide budget information and constraints for the project - WATCH: https://fathom.video/share/71ZSwn4HwfQ9B4u4SRbcyw_2sqZxQCMm?timestamp=2444.2599
+
+40:49 - kacie south
+  So if this, you know, if we crunch the numbers and it comes out and it's like, oh God, we just don't want to spend that kind of money.  You guys have like a trimmed down version which would be like the together version.
+
+41:00 - Daniel Kurt (revenuecreators.com)
+  version. It would be like the together version. Yeah, I mean, there's three, right? You do everything and we just coach and we have like a weekly call and you've got your homework and to do's and you know, we can answer questions.  can call it but we're not in hope about doing the work, right? The middle option is like we're mixing and matching a little bit.  That's doable but can get a little more complex because who's going to do what, right?
+
+41:24 - kacie south
+  I'm not thinking we would do that. I'm just, I don't right of the sticker shock a little bit but if it's like, you know, teased out over time then that would make more sense.
+
+41:33 - Daniel Kurt (revenuecreators.com)
+  I mean, what do you have a budget for this?
+
+41:36 - kacie south
+  I don't.
+
+41:36 - Daniel Kurt (revenuecreators.com)
+  I have no, I don't.
+
+41:38 - kacie south
+  So I have to like present this all. I know that like we're open from the standpoint of I've been told multiple times like, hey, do you want me to bring someone in to do this?  They're happy to do that and but I don't know that they know like what we're talking about in terms of numbers at all.  So I think it's all good. I think that it's just something that I'm going to have to look at and I'm going to have to be clear on so that when I  I present it. Yeah, everybody's on board. I understand. The thing is, they don't have history with serums, they have no idea what's involved, no idea that work load.  mean, the condition I was at before, it got to the point where we had to hire some of the full time just to be maintaining the data.  Sure. But we were working very complex things.
+
+42:21 - Daniel Kurt (revenuecreators.com)
+  Yeah, absolutely. You know, I think there's probably many nuances within your organization. So I just want to, I can give you a range to sort of calibrate around.  But then our next step will be, I'm going to work with John. I'll put together a scope of work timeline, what I think the priorities are based on what I've learned from you and then consider that a draft.  then we can collaborate on the next call and refine it together. And then as John said, we can help you prepare for a presentation to lay this all out with the organization and help you sell it internally.  I think we'd be looking at perhaps 15 to 20 K for like the full. service, white glove area over three months.  we can yeah, exactly. Something like that. And you know, obviously it would be less if we're doing a lesser level service.
+  ACTION ITEM: Review scope of work proposal and pricing estimate from Daniel - WATCH: https://fathom.video/share/71ZSwn4HwfQ9B4u4SRbcyw_2sqZxQCMm?timestamp=2589.8599
+
+43:14 - kacie south
+  I think we should plan on like option number three, like the max. Yeah. just and then we can always scale back from there.  I can look at it. Look at your scope of work and I go, you know what?
+
+43:26 - Daniel Kurt (revenuecreators.com)
+  I'm really comfortable with this. I can handle it as peace or whatever.
+
+43:29 - kacie south
+  But I say we start at the top and then we take our way down. I do have a question with HubSpot.  A couple things for one email for sure for Tony and maybe for some of us, we would just want to do that email address that we would forward it to and then have it sync.  And then I received an email from someone who's not in our contacts. Does your email, you have like an AI that will like pull like if I forward that email and there's  No contact associated, create a contact from the, it just become the signature in the email or that to complex.
+
+44:08 - Daniel Kurt (revenuecreators.com)
+  So you want to go, think it's that I'm not, that's going to say that's more of a damn question.  How are, do you need to educate me a little bit on iCloud and how contacts are added in there?  Are our contacts automatically added because of the email activity back and forth or do you have to like, click add contact?
+
+44:26 - kacie south
+  Nothing's added, you have to actually manually enter it, which is like, we're actually missing a lot of contacts also.  Understood, yeah. And we all have our own personal Apple IDs, which Apple will flip flop between which account it defaults to even if you set it on your phone or over back.  So a lot of like Tony's contacts are in his personal Apple ID, which I've got to pull over to the TR Master.  A lot of my personal have to do the same, lot of our individual emails all have, you know, particular people in the group.
+
+44:57 - Daniel Kurt (revenuecreators.com)
+  Yeah, yeah. So anything obviously added to. cloud, any contact will sink over to HubSpot, right, and then get put into that little quarantine state where somebody you probably has to go in and just get it correct and make sure all the data is in there the way you need it to be.  If contacts are not being added to iCloud, there's really no way to automatically put them in there. mean, if you're using Google or Outlook, right, that integration does it all automatically, but obviously comes with privacy concerns and everything else.  So that's a non-starter. I think we're just going to have to put together an SOP, whether it's weekly, monthly, whatever, where any contacts from preceding month, we have to process those and get them set up as a contact in iCloud.  So that's just going to be something that has to be run manually. We could look for other solutions, but I'm afraid those other solutions will likely involve some privacy concerns and the things that you're trying to avoid.
+
+46:00 - kacie south
+  There's basically like an activity report that I'm going to want to run maybe weekly, but I'm also going to need to upload weekly activities and unfortunately the software that we have Tony's building right now, they don't have a way To excel and then do an upload, but in the meantime, I'll just have to like copy and paste it into Excel.  Can we map a report that I can copy and paste in the correct fields and then it will automatically go into the system and go in there?
+
+46:46 - Daniel Kurt (revenuecreators.com)
+  What are we talking about here?
+
+47:00 - kacie south
+  like resolve a document with so-and-so about X, Y, would be the activity. So I would want to put that in the system saying that that was something that was worked on and completed.  Like, that document was resolved and then put the date in so we would have a history of it.
+
+47:23 - Daniel Kurt (revenuecreators.com)
+  Can you give me a context like, is this for, this is somebody not Tony that is working?
+
+47:29 - kacie south
+  It would be a context. This would be one of the things that Tony wants to do. He will resolve a document.  It's an article coming out. So he wants to resolve the letter going to the editor of an article and it would be related to three or four people and a company.  So I would want that activity to live at the company level as well as the individual level.
+
+47:48 - Daniel Kurt (revenuecreators.com)
+  Okay. And where was this activity set up originally?
+
+47:51 - kacie south
+  What is that software? Oh, it's called RPM. It's not available for the public right now but it's Tony's I was saying with it, it's how we build out our days and manage all of our tasks, activities, and projects, and, and, and, it's very robust, it doesn't agree with our calendar, but it doesn't have a lot of things like you can't do attachments, and it's just not meant for like a CRM system.
+
+48:18 - Daniel Kurt (revenuecreators.com)
+  Right.
+
+48:19 - kacie south
+  It's more like an activity tracker.
+
+48:21 - Daniel Kurt (revenuecreators.com)
+  Yeah, I think certainly if you can do an export from there and import it into HubSpot, we can connect all those dots.  If it sends out email notifications, we might be able to do some sort of email parser and integrated into HubSpot.  That's also a possibility, but again, that's more technology that's getting involved. But, you know, the simplest thing would be, if you can get a CSV, it can certainly be imported into HubSpot correctly.
+
+48:52 - kacie south
+  Yeah, so I won't have that until probably late August, September. So if I could have a template at least, then I could a  and then throw the information into that would be awesome.
+
+49:03 - Daniel Kurt (revenuecreators.com)
+  Sure. Yeah.
+
+49:15 - John Serrantino (HubSpot)
+  All right, so we got some work to do.
+
+49:18 - kacie south
+  Yeah, that sounds great. So what do we do next? we'll wait for the scope of work and get kind of an idea of pricing from you guys, right?
+
+49:26 - John Serrantino (HubSpot)
+  I got two ideas. Dan, what do you think timeline wise to put your stuff together?
+
+49:31 - Daniel Kurt (revenuecreators.com)
+  It is Tuesday.
+
+49:33 - John Serrantino (HubSpot)
+  So I need two or three days. Why don't we schedule a call to do two things. review the proposal side.  Two, let's walk through HubSpot bit. Case in your point, it'd be good to like take a look around. And I think we could do both of those and one felt swoop.  Okay. Okay. And given Dan saying like two, three days, I guess we could go as early as Friday or take a look at next week.
+  ACTION ITEM: Attend follow up call on Friday July 15th at 2pm PST to review proposal and demo HubSpot - WATCH: https://fathom.video/share/71ZSwn4HwfQ9B4u4SRbcyw_2sqZxQCMm?timestamp=2992.599899
+
+49:57 - kacie south
+  So. Pretty bad. For me, unless we do Tuesday, um, I can do Friday this week, but, um, but, uh, but, uh, otherwise, like Friday, Saturday, I'm I'm out of the office.
+
+50:23 - Daniel Kurt (revenuecreators.com)
+  Okay, I'll go to Friday, John.
+
+50:26 - kacie south
+  Okay, let me just do Friday.
+
+50:27 - Daniel Kurt (revenuecreators.com)
+  Let's look at the calendar.
+
+50:28 - John Serrantino (HubSpot)
+  Yeah, it keeps the moment to go.
+
+50:31 - kacie south
+  Caroline, I just scheduled a meeting for us at, uh, three forty five with creative, um, so that won't work, but we can do, um, maybe we do like two p.m.
+
+50:47 - John Serrantino (HubSpot)
+  Friday. Two p.m. sorry. Okay, thank God. Um, cool. Yeah, I was like 2 a.m. sounds terrible. Um, Okay. I will get an invite over for that.  will plan to come with the items we just talked through along with, we'll do a nice little overview of HubSpot itself.
+
+51:11 - kacie south
+  Cool. That's awesome. So I just see you guys know my own personal timeline is to really get this settled ideally by Friday because I want to make a decision and start to pull the trigger.  We've already ruled out one other company we were looking at, the other one we just need to kind of discuss after we got off the phone with you guys.  I missed that call so I had really no contact support but I just have to care a lot about it.  But really to me so far this seems like it really you know hits all the boxes. just don't want to make a decision because I'm excited about it.
+
+51:44 - John Serrantino (HubSpot)
+  rather make it intelligently look at it from all angles. Thousand percent. I think we'll give you a good positioning to do that on Friday.  I think we'll come out of Friday's call with so pretty much everything answered and then we'll just try and enable you for internally getting things over the health with Tony and the crew.
+
+52:00 - kacie south
+  Okay, that's perfect.
+
+52:02 - John Serrantino (HubSpot)
+  Cool. All right, invite just went out. We will talk to you then if there's anything in the interim, let us know.  I don't think there's much to recap in terms of sending over an email.
+
+52:14 - kacie south
+  Caroline's been crushing it on the note side.
+
+52:16 - John Serrantino (HubSpot)
+  You're probably pretty well cut up, but I'm not going to top that in terms of a summary. So I'm going to just save everyone the digital waste.
+
+52:27 - kacie south
+  Sounds good. Well, I'm really excited and I'm hopeful and I think this could be a really great fit. And I'm just, I'm really excited about the leverage that this is going to provide to Tony and just kind of some peace of mind and ease with our workflows.
+
+52:40 - John Serrantino (HubSpot)
+  I think what we really did. We're excited as well as I mentioned, we already have the relationship with you guys on the other side.  Yeah. And one of the things we said is we can't wait to start taking more and more revenue away from Salesforce as you guys move more and more of Tony's businesses to HubSpot.  And I know Tony got a look at that when we were chatting on the marketing side.
+
+52:59 - kacie south
+  So hopefully we can keep that momentum. I'm going. Wait, did you guys do a meeting with him?
+
+53:03 - John Serrantino (HubSpot)
+  We did a meeting with, like I said, Jesse and Nick, and they were filling in Tony when they were going to be purchased on that side, and then they related to me that Tony has a great relationship with Margaret Betty off, but he would certainly be like, hey, we might need to pull in a favor here if I have to go to Salesforce or out.  He had said at the time, and this is through second party, but he had said at the time he would love nothing more than moving his businesses off of Salesforce.
+
+53:26 - kacie south
+  So I know he wants everything to work to work well, and the customer would be happy.
+
+53:33 - John Serrantino (HubSpot)
+  Well we're trying to demonstrate that on the one side of the business. Hopefully this will be another one who have personal accountability towards knowing HubSpot is a better solution, but look forward to connecting on Friday if you need anything in the interim.
+
+53:44 - kacie south
+  Let us know. Great. Same, and we'll see Friday.
